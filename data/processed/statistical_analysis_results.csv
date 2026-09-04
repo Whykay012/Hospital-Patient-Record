@@ -1,0 +1,6 @@
+Analysis,Statistic,P_Value,Significant_At_5pct
+Length of stay vs claim cost,0.001809213824592159,0.0013750306686553333,True
+Encounter type cost ANOVA,167.64494368366053,2.8583393561598764e-176,True
+Emergency vs non-emergency cost,3.2035377766770297,0.0013750306686553333,True
+Claim cost vs payer coverage,0.5557399944057794,0.0,True
+Encounter frequency vs total patient cost,0.41743106428096893,2.3662873328727826e-42,True

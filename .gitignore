@@ -1,0 +1,26 @@
+@'
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated SQL results
+sql*_results.txt
+
+# Temporary notebook/archive files
+analysis/notebooks.zip
+* copy.ipynb
+
+# Empty/temporary database
+database/hospital_analytics.db
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+'@ | Set-Content .gitignore

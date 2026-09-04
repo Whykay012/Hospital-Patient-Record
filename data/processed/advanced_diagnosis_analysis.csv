@@ -1,0 +1,51 @@
+REASONDESCRIPTION,encounters,total_cost,average_cost
+Normal pregnancy,1341,20920672.75,15600.799962714393
+COVID-19,26,1226413.9,47169.765384615384
+Malignant neoplasm of breast (disorder),723,1158205.08,1601.9434024896266
+Chronic congestive heart failure (disorder),1738,933207.46,536.9433026467203
+Acute bronchitis (disorder),352,662061.5,1880.856534090909
+Sepsis (disorder),4,644452.6399999999,161113.15999999997
+Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),53,634319.59,11968.294150943395
+Malignant tumor of colon,51,537411.07,10537.471960784313
+Hyperlipidemia,1565,361817.88,231.19353354632588
+Overlapping malignant neoplasm of colon,28,217513.24,7768.33
+Acute viral pharyngitis (disorder),400,144787.13999999998,361.96784999999994
+Streptococcal sore throat (disorder),69,117980.08,1709.856231884058
+Injury of anterior cruciate ligament,7,116506.25,16643.75
+Suspected lung cancer (situation),10,79697.85,7969.785000000001
+Secondary malignant neoplasm of colon,7,76727.42,10961.06
+Non-small cell lung cancer (disorder),13,72897.74,5607.518461538462
+Viral sinusitis (disorder),732,67109.01,91.67897540983606
+Anemia (disorder),64,54348.0,849.1875
+Injury of medial collateral ligament of knee,3,49895.689999999995,16631.896666666664
+Neoplasm of prostate,16,46457.770000000004,2903.6106250000003
+Impacted molars,4,46394.94,11598.735
+Non-small cell carcinoma of lung  TNM stage 1 (disorder),6,44876.04,7479.34
+Fetus with unknown complication,26,42078.02,1618.3853846153845
+Appendicitis,4,34649.82,8662.455
+Rupture of patellar tendon,2,33166.17,16583.085
+Acute Cholecystitis,2,28740.8,14370.4
+Alzheimer's disease (disorder),191,26670.88,139.63811518324607
+Escherichia coli urinary tract infection,21,16853.92,802.567619047619
+Sinusitis (disorder),115,16393.69,142.55382608695652
+Asthma,113,16165.54,143.0578761061947
+Drug overdose,111,15348.900000000001,138.2783783783784
+Cystitis,14,11745.86,838.99
+Opioid abuse (disorder),28,10894.640000000001,389.0942857142858
+Blighted ovum,9,9048.42,1005.38
+Acute bacterial sinusitis (disorder),84,7364.86,87.67690476190475
+Fetus with chromosomal abnormality,4,6301.27,1575.3175
+Posttraumatic stress disorder,53,4866.88,91.82792452830189
+Primary fibromyalgia syndrome,13,4367.68,335.97538461538466
+Fracture of forearm,49,4191.95,85.55
+Fracture of ankle,26,2224.2999999999997,85.54999999999998
+Fracture subluxation of wrist,26,2224.2999999999997,85.54999999999998
+Fracture of clavicle,24,2053.2,85.55
+Concussion with no loss of consciousness,24,2053.2,85.55
+First degree burn,21,1796.55,85.55
+Closed fracture of hip,17,1454.35,85.55
+Chronic pain,3,1330.43,443.4766666666667
+Osteoarthritis of knee,13,1204.05,92.61923076923077
+Injury of tendon of the rotator cuff of shoulder,14,1197.7,85.55
+Familial Alzheimer's disease of early onset (disorder),9,1112.53,123.61444444444444
+Otitis media,10,1063.18,106.31800000000001

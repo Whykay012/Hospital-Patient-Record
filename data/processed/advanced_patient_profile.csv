@@ -1,0 +1,975 @@
+PATIENT,encounter_count,total_cost,average_cost,total_coverage,total_out_of_pocket,total_stay_hours,UTILIZATION_SEGMENT,COST_SEGMENT,RISK_PROFILE
+002bc307-2fff-04ba-161b-98cce123e226,46,13742.67,298.7536956521739,9509.86,4232.81,61.916666666666664,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0034fe01-207f-275f-6b4b-821f7b0af044,75,548667.37,7315.564933333333,5494.5599999999995,543172.81,119.38666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+00abe029-00fa-a666-34f5-258a36978f6d,22,48334.27,2197.0122727272724,6384.67,41949.6,6.791944444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+010ff9c1-564b-6e32-09f4-29cb4224bba9,4,26367.5,6591.875,19475.04,6892.460000000001,1.7083333333333335,Moderate Utilization,High Cost,Standard
+01274098-150f-8211-6150-29f2a2da266c,1,0.0,0.0,0.0,0.0,24.0,Low Utilization,Low Cost,Standard
+01296e88-f6d9-1c18-cf91-87523325e034,35,882324.24,25209.264,0.0,882324.24,630.9530555555556,Very High Utilization,Very High Cost,High Risk / High Utilization
+015ecc1c-4488-c56d-92c3-c9c94fcf0514,16,3525.67,220.354375,2276.46,1249.2099999999998,4.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+01c497f8-aaf9-51d6-d6fd-6de9a5dad750,7,8667.32,1238.1885714285713,6677.839999999999,1989.4799999999998,2.2255555555555553,High Utilization,Moderate Cost,Elevated Utilization or Cost
+01d788c7-60ac-6415-4cf2-7ecc9ab3aabf,1,85.55,85.55,36.44,49.11,0.25,Low Utilization,Low Cost,Standard
+0226f105-2572-1c6f-15f0-1aa0438e40d0,180,1127635.83,6264.6435,0.0,1127635.83,1820.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+0292e8ad-61bf-0676-db49-fb08c34db695,4,794.88,198.72,503.1,291.78,1.75,Moderate Utilization,Low Cost,Standard
+02b80efd-efca-43aa-457c-9115da86f227,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+0330487c-5d77-02a9-9f11-b3cc01d306cd,20,22119.64,1105.982,16999.29,5120.349999999999,7.069722222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+03751d2d-391e-a681-dbf6-4255e9f01e18,21,25176.239999999998,1198.8685714285714,19421.48,5754.760000000001,7.620555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+0425b284-e697-937d-a00b-6fda0f1b9710,12,149134.49,12427.874166666666,31921.87,117212.62,27.139444444444443,Very High Utilization,Very High Cost,High Risk / High Utilization
+04439011-6a76-8606-1879-2a630330d1d1,60,82409.33,1373.4888333333333,0.0,82409.33,69.33583333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+050a0341-c954-2856-b3a6-580f8a3aaf84,2,10460.970000000001,5230.485000000001,0.0,10460.970000000001,2.0,Low Utilization,Moderate Cost,Standard
+0517eef6-a917-9ec3-dea0-cb101e2af480,14,23756.25,1696.875,21645.75,2110.500000000001,5.052777777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+051e55f6-9b04-c10d-5d2a-b99dbdf9fda9,17,20208.34,1188.7258823529412,174.88,20033.46,10.876944444444444,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+05d01b8d-1f54-dad3-6b0d-af245e0d83ce,1,414.58,414.58,0.0,414.58,0.25,Low Utilization,Low Cost,Standard
+06c23fff-c29a-3eae-0456-4f7cb34d4fe7,17,8753.02,514.8835294117647,56.85,8696.17,11.058333333333334,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+072ed90c-aeaf-099a-a10c-cfb468d37977,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+07e7f8a0-1bfd-3af8-2bd0-29f1dbe9633c,31,49039.67,1581.9248387096773,38502.99,10536.68,9.258611111111112,Very High Utilization,High Cost,Elevated Utilization or Cost
+083fef2b-5804-930e-e92f-27a698c870d6,25,190059.21000000002,7602.368400000001,150055.36,40003.850000000006,12.453611111111112,Very High Utilization,Very High Cost,High Risk / High Utilization
+08b1750c-48cc-06b7-2d03-a37d367c34be,9,31598.250000000004,3510.916666666667,9372.539999999999,22225.710000000003,3.0805555555555557,High Utilization,High Cost,Elevated Utilization or Cost
+095f27e6-5343-895f-cdd1-670ffeb7eb13,30,26888.889999999996,896.2963333333332,20468.74,6420.149999999997,39.706944444444446,Very High Utilization,High Cost,Elevated Utilization or Cost
+09821486-2d2a-8a14-17c8-7c6d78baee05,47,18529.65,394.24787234042554,12711.61,5818.04,106.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0989e14c-0621-b9cc-1219-fb92c0927232,13,12406.44,954.3415384615384,0.0,12406.44,3.76,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+09acf4d1-62d0-3cb1-f123-fb09dbd28e60,25,59243.61,2369.7444,46545.21,12698.400000000001,33.12638888888888,Very High Utilization,High Cost,Elevated Utilization or Cost
+09e0ec41-cd4c-50b2-b425-824013777beb,9,2016.58,224.06444444444443,23.73,1992.85,43505.75,High Utilization,Low Cost,Elevated Utilization or Cost
+09e300d4-71f6-d2c2-88ea-27b607513e96,12,57112.2,4759.349999999999,9643.2,47469.0,5.127777777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+09ed0d53-f114-873c-302a-8b3b16b91de9,51,9158.54,179.57921568627452,725.4599999999999,8433.08,64.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0a170c59-c745-cf8b-d832-ba6a1ea0417c,21,33601.94,1600.092380952381,4863.51,28738.43,7.786666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+0a385e4d-2b35-616a-59f1-ea679679cc9f,21,26598.05,1266.5738095238096,19858.91,6739.14,6.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+0a4359a9-c0bf-6a9d-f1d7-b06e979af479,14,17686.88,1263.3485714285714,3393.83,14293.05,3.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0ae9e2d7-2f7f-a684-4ac0-c42d491a9708,15,11915.01,794.3340000000001,9403.99,2511.02,3.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0af19d06-6f3a-443d-0ec1-ffb3847ed795,10,19875.48,1987.548,0.0,19875.48,2.635,High Utilization,Moderate Cost,Elevated Utilization or Cost
+0b85d7d4-a13c-8077-3f4a-18f815e641c5,17,58468.31,3439.3123529411764,42877.79,15590.519999999997,7.460555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+0bd4835a-7d93-ed23-85a3-e552ab1c33dc,10,31364.03,3136.403,0.0,31364.03,2.8361111111111112,High Utilization,High Cost,Elevated Utilization or Cost
+0bdce2af-fa5f-8860-ed77-3cf56323d3a6,54,532002.3,9851.894444444446,111246.66,420755.64,16.674722222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+0be1bdd3-049e-4eaa-3b43-347904cfffb0,29,214992.13999999998,7413.522068965517,132210.34,82781.8,9.128333333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+0c122290-8c15-77ac-b418-2fea4e8a8e6a,27,3610.33,133.71592592592592,1871.64,1738.69,7.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0c5abaaf-01be-55ac-a808-3afc6407fe0b,100,46270.98,462.70980000000003,29302.75,16968.23,25.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+0ce02b8e-bb05-13f4-4d54-202f8418673f,17,22440.7,1320.0411764705882,17402.989999999998,5037.710000000001,5.7025,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0ce49233-2b01-ef26-e9d9-036950db4586,13,52364.490000000005,4028.037692307693,0.0,52364.490000000005,28.973055555555554,Very High Utilization,High Cost,Elevated Utilization or Cost
+0d131071-8a0f-0dfa-0d65-2bcb93d628a0,5,35508.020000000004,7101.604000000001,28017.45,7490.569999999999,1.25,Moderate Utilization,High Cost,Elevated Utilization or Cost
+0d624a9d-fd1c-c62a-a1ac-b851d0329d28,21,47889.58,2280.4561904761904,10595.09,37294.490000000005,8.639166666666666,Very High Utilization,High Cost,Elevated Utilization or Cost
+0d8c3506-e145-4689-b1b8-caed8a68ca4c,41,53106.350000000006,1295.2768292682929,77.46000000000001,53028.89000000001,88.9738888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+0d8ca926-d721-32c7-b7e4-e2770f45f4ab,42,197692.47999999998,4706.963809523809,75302.92,122389.56,13.963611111111112,Very High Utilization,Very High Cost,High Risk / High Utilization
+0e02b297-527d-b5ea-30e5-690c82541243,1,278.58,278.58,89.27,189.31,0.25,Low Utilization,Low Cost,Standard
+0ec939a0-559c-7bc9-db9c-a7feae58634a,43,75921.90000000001,1765.625581395349,45072.73,30849.170000000002,8204.825277777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+0ecff71d-c81d-3bef-9769-eba85ea6c82a,2,2526.2200000000003,1263.1100000000001,1918.3799999999999,607.8400000000001,2.0,Low Utilization,Low Cost,Standard
+0f754d9d-ddb1-aa7d-9252-cd614ba73a99,38,64255.75,1690.9407894736842,21665.89,42589.86,16.947222222222223,Very High Utilization,Very High Cost,High Risk / High Utilization
+0f8742d2-594e-de70-fc35-5413dd1c108f,25,18899.96,755.9984,14578.82,4321.139999999999,7.55,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+0fd3c446-4569-9833-c951-0c92c199f07b,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+102be01d-73ab-4e7c-6b48-dc775d48f392,37,48899.729999999996,1321.6143243243241,37877.44,11022.289999999999,31.10861111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+103d9313-a3f2-ce7f-c7c4-613dd9d51b3b,1,1407.41,1407.41,1057.99,349.4200000000001,1.35,Low Utilization,Low Cost,Standard
+10cfe101-812b-77fc-5354-56c22d29b9eb,9,51620.12,5735.568888888889,41004.670000000006,10615.449999999999,3.8952777777777774,High Utilization,High Cost,Elevated Utilization or Cost
+10db24b0-27dc-876d-a3f5-a0f3d2fe03b4,8,14560.26,1820.0325,13361.37,1198.89,3.660555555555556,High Utilization,Moderate Cost,Elevated Utilization or Cost
+10ecda86-203c-0e31-2a07-c47726523449,52,357021.08,6865.79,75759.95,281261.13,16.200277777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+10f53ab6-8a1a-f523-0e49-4ed08248ae65,7,3710.4700000000003,530.0671428571429,0.0,3710.4700000000003,5.673055555555555,High Utilization,Moderate Cost,Elevated Utilization or Cost
+11766433-08db-8155-ef97-93f7e26fe443,16,18420.53,1151.283125,0.0,18420.53,83.04722222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+11844ff2-5918-bb2f-5b7d-65aa702f0cd8,22,34642.04,1574.638181818182,101.38,34540.66,8.625833333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+11901ea9-e6ef-852d-7f87-77d91aa2c472,3,35025.1,11675.033333333333,27728.21,7296.889999999998,0.75,Moderate Utilization,High Cost,Standard
+124708bf-0f78-e8a7-bcc9-a2dbbe22b05e,19,33279.74,1751.5652631578946,25944.170000000002,7335.570000000001,6.890555555555555,Very High Utilization,High Cost,Elevated Utilization or Cost
+1278fd47-3048-8534-9bc5-07a90d596b01,22,237241.59,10783.708636363635,81256.63,155984.96,6.895833333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+12e05e42-1c47-1284-9c84-b1c242839fc3,57,9079.060000000001,159.28175438596494,5001.9800000000005,4077.0800000000004,14.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+12f0d3df-7ea9-3005-ea7e-a4c829536a12,73,331058.64,4535.049863013699,289187.66000000003,41870.979999999974,1406.5997222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+13034028-798b-3965-89ff-1c925a10203e,33,90012.01,2727.6366666666663,16451.82,73560.19,10.393333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+134d6b6b-8c0c-920f-dbd6-fb1e02c936d9,21,91996.95000000001,4380.807142857144,37298.43,54698.520000000004,9.016666666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+1375a6a6-5638-8af1-dc4f-2aa58220d36d,111,1030983.91,9288.143333333333,54044.35,976939.56,27.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+13b6b204-43fd-39a0-68a2-96d5023a268a,28,60398.82,2157.1007142857143,35593.62,24805.2,8.295,Very High Utilization,High Cost,Elevated Utilization or Cost
+13c6f26e-17b7-f534-04db-78a26b26018d,23,17321.75,753.1195652173913,13093.94,4227.809999999999,8.636666666666667,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+13eb71d4-0aba-a2c7-f00c-0371d8cbbd2d,36,11910.939999999999,330.8594444444444,8470.5,3440.44,12.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+14198630-bbb8-5460-80ca-f9b7dce23527,9,10905.81,1211.7566666666667,5920.08,4985.7300000000005,3.281111111111111,High Utilization,Moderate Cost,Elevated Utilization or Cost
+1433001f-a2c3-b2ca-6482-2052272b1f8a,6,969.0699999999999,161.51166666666666,575.98,393.09,2.25,High Utilization,Low Cost,Elevated Utilization or Cost
+1479fdc7-1f9c-1058-3e83-91c45bb58db5,25,22266.79,890.6716,6019.06,16247.73,7.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+14b89c1c-8d06-f023-7272-cea523b92c2e,9,47641.71,5293.5233333333335,17384.6,30257.11,4.986666666666666,High Utilization,High Cost,Elevated Utilization or Cost
+14c9ca6f-b990-8b49-f3ce-6cb5a9b5624c,7,1230.1,175.72857142857143,0.0,1230.1,1.75,High Utilization,Low Cost,Elevated Utilization or Cost
+14ea6514-9483-5799-65a6-cbc2967c6df6,9,33679.08,3742.1200000000003,18602.27,15076.810000000001,3.075,High Utilization,High Cost,Elevated Utilization or Cost
+14f63f0d-c6fd-de06-05ab-81f3fed8c7d1,26,107696.48,4142.172307692307,0.0,107696.48,135.045,Very High Utilization,Very High Cost,High Risk / High Utilization
+14fac7f6-418c-407d-d65f-a1159923cfd3,13,120997.76000000001,9307.52,0.0,120997.76000000001,7.076388888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+166e3d0d-77e4-14eb-4f9a-a38ba652e45e,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+1685befc-4c9e-a69f-d65f-952abe34c74c,1,414.58,414.58,0.0,414.58,0.25,Low Utilization,Low Cost,Standard
+16ebad97-3986-cd97-44fe-36515ab6ad45,35,3646.25,104.17857142857143,1764.99,1881.26,8.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+1712d26d-822d-1e3a-2267-0a9dba31d7c8,1381,2437415.31,1764.964018826937,0.0,2437415.31,3526.5930555555556,Very High Utilization,Very High Cost,High Risk / High Utilization
+17171e7a-4f3e-6d97-cc8d-bbcede20f9a7,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+1754e352-78e5-4923-0b2c-3adff788479d,2,184.75,92.375,72.88,111.87,0.5,Low Utilization,Low Cost,Standard
+1799f9c9-78a4-4821-364e-31e2c9a43a5b,9,116297.52,12921.946666666667,92551.23,23746.290000000005,3.75,High Utilization,Very High Cost,Elevated Utilization or Cost
+183df435-4190-060e-8f8e-bf63c572b266,3,563.74,187.91333333333333,0.0,563.74,0.75,Moderate Utilization,Low Cost,Standard
+1847e010-e06a-4a1b-ec78-aef7bb58788f,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+18786b24-6a29-4c58-8a62-fbf6fafdab9c,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+187dd60c-abb1-c51d-c8b4-f86c06d4e34d,2,20291.21,10145.605,16168.97,4122.24,2.0,Low Utilization,Moderate Cost,Standard
+18953a4f-7434-b343-3b81-87af6436f8fe,15,65952.95,4396.863333333333,13898.220000000001,52054.73,3.9630555555555556,Very High Utilization,Very High Cost,High Risk / High Utilization
+18e7819f-5407-9d84-de9f-27a4d5526695,69,91256.54000000001,1322.5585507246378,59650.39,31606.15,499.69916666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+192330d7-15e7-77f3-46cb-6ee916a1c6fb,164,24335.120000000003,148.3848780487805,14219.44,10115.680000000002,41.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+199efcd5-d957-4955-36e0-e365ebccaf8d,8,10752.47,1344.05875,8328.71,2423.7599999999998,2.75,High Utilization,Moderate Cost,Elevated Utilization or Cost
+19d9c6b1-6a1c-7ba3-8648-e0150491a7a7,25,15930.91,637.2364,11878.640000000001,4052.2699999999995,13.088333333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+19e7fef9-9b88-ebb5-7704-b238be88f5fc,105,175341.94,1669.923238095238,30336.7,145005.24,27.97361111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+19ef49c6-8540-6309-4dec-524ee697e943,21,43435.49,2068.3566666666666,10088.83,33346.659999999996,6.6075,Very High Utilization,High Cost,Elevated Utilization or Cost
+19fa4e8b-62d9-0c8e-a046-33976641084b,8,35360.39,4420.04875,0.0,35360.39,2.8247222222222224,High Utilization,High Cost,Elevated Utilization or Cost
+1a3939a9-e4f0-2a02-7697-8ae70501501b,3,28771.399999999998,9590.466666666665,22848.64,5922.76,3.0,Moderate Utilization,High Cost,Standard
+1a452603-0f36-96e9-cdd2-5cb7b86d38af,7,9085.130000000001,1297.8757142857144,6941.42,2143.7100000000005,2.073611111111111,High Utilization,Moderate Cost,Elevated Utilization or Cost
+1b11225b-e282-a8a3-ce63-2336e3f28f57,5,1073.69,214.738,381.72,691.97,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+1b444e26-f29f-bcce-31dc-6f9b7c70a840,31,42799.58,1380.631612903226,10676.92,32122.659999999996,11.085555555555555,Very High Utilization,High Cost,Elevated Utilization or Cost
+1b688d87-54e4-6e11-ed65-900080ffef5f,4,700.97,175.2425,0.0,700.97,1.0461111111111112,Moderate Utilization,Low Cost,Standard
+1b8c0ea6-2004-fae4-e087-6eb0ad25ea5d,17,9358.43,550.4958823529412,0.0,9358.43,10.2225,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+1bfeb285-817e-4eda-6fbb-609706127115,3,54480.880000000005,18160.293333333335,51241.33,3239.5499999999975,3.0,Moderate Utilization,High Cost,Standard
+1c035e9d-e300-9bbd-e20f-c4f4e817907f,47,533457.99,11350.17,474510.5,58947.49,14.646666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+1c1077aa-6ced-5e7f-9c1c-0265f92f5f7e,18,32429.12,1801.6177777777777,362.52,32066.6,5.853055555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+1c108ed8-584c-711e-723a-37239da0981b,34,6038.42,177.6005882352941,3678.59,2359.83,8.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+1c619a14-8489-3f35-86f9-546051689805,5,14816.92,2963.384,11591.0,3225.9199999999996,2.75,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+1c814968-4abd-64bb-6c0d-127b09b30d2f,8,19364.61,2420.57625,8697.07,10667.54,2.5933333333333333,High Utilization,Moderate Cost,Elevated Utilization or Cost
+1cc1289f-eda2-1cca-3dc9-02b958c16e32,18,30933.35,1718.5194444444444,0.0,30933.35,4.6819444444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+1dd9fc50-7082-dafb-0ac9-a83151b90522,5,1977.58,395.51599999999996,0.0,1977.58,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+1de6b30f-817f-01be-4b7d-333a0d8e5041,93,43105.91,463.5044086021506,31508.29,11597.62,97.81,Very High Utilization,High Cost,Elevated Utilization or Cost
+1de7f7d8-0468-7291-f980-2c7bf2e4fcf1,24,41585.12,1732.7133333333334,24255.39,17329.730000000003,6.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+1e3e52c8-ac41-f00c-9525-e3bc13761601,31,19088.52,615.7587096774193,14579.55,4508.97,13.816666666666666,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+1e6969b4-e19b-0fdf-437c-266ec1a0f31f,21,36073.19,1717.7709523809524,10477.59,25595.6,6.211944444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+1ed4864d-27c6-0205-9cb9-b8883686ab89,14,446946.06999999995,31924.719285714284,356989.3,89956.76999999996,457.2411111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+1f118c14-433b-b0ee-8771-fc8e2602af63,46,391992.05,8521.566304347825,0.0,391992.05,15.168611111111112,Very High Utilization,Very High Cost,High Risk / High Utilization
+1f8598ca-dd7d-1faa-d085-cff43e34be62,3,563.74,187.91333333333333,354.98,208.76,0.75,Moderate Utilization,Low Cost,Standard
+1f982a4d-c162-88d5-415b-fc4cab367c1b,8,1267.48,158.435,129.2,1138.28,2.75,High Utilization,Low Cost,Elevated Utilization or Cost
+1fc70608-ecd7-a4a6-b003-fde15137d541,37,37534.12,1014.4356756756757,27982.2,9551.92,15.633888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+1fe2ce44-c952-eccf-c2dd-c2e652fc64b4,5,1059.48,211.89600000000002,0.0,1059.48,1.2627777777777778,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+1fed4785-f1d2-c104-8334-0d11d5a435ba,2,285.16,142.58,80.9,204.26000000000002,0.5,Low Utilization,Low Cost,Standard
+204f8028-72f8-d6f8-761f-79ebf9f02311,19,42791.76,2252.197894736842,33835.61,8956.15,5.639166666666666,Very High Utilization,High Cost,Elevated Utilization or Cost
+20a4bc24-6b69-2f5c-dc74-1df390cae25b,14,338240.75,24160.053571428572,270144.59,68096.16,3.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+20f86dda-a492-2acc-63fb-2c361b0367ed,49,383788.88,7832.42612244898,0.0,383788.88,14.659722222222221,Very High Utilization,Very High Cost,High Risk / High Utilization
+2129a358-dc89-5c48-c3f6-85b4cd636bc3,13,6297.95,484.4576923076923,56.85,6241.1,9.575277777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+213cca85-3d61-1b76-5287-f1e0a40fb2a7,26,9878.11,379.9273076923077,7037.67,2840.44,13.640277777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+2147f600-50e5-d6c8-ae1e-930dc97e0664,13,13429.75,1033.0576923076924,1091.24,12338.51,4.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+217851b0-5f47-d376-18b9-0fe4ba77207e,1,573.98,573.98,450.28,123.70000000000005,0.25,Low Utilization,Low Cost,Standard
+218356e6-3937-01a9-bf69-4712a1e37880,7,9641.3,1377.3285714285714,7404.099999999999,2237.1999999999994,2.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+21b3c7aa-e88b-8dd3-140b-2d456563454e,18,23112.36,1284.02,17857.65,5254.710000000001,12.57638888888889,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+220bc4a2-c9cf-816f-ad5e-cb0f87263724,13,8967.220000000001,689.786153846154,7317.3,1649.9200000000005,10.312222222222221,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+2223bc37-a9d5-bd6d-c730-5bea627179d5,18,86517.94,4806.552222222223,0.0,86517.94,9.268888888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+227aed94-d7ed-200d-2c52-e51ed58156c4,56,36327.92,648.7128571428572,0.0,36327.92,93.93333333333334,Very High Utilization,High Cost,Elevated Utilization or Cost
+229ce85d-1487-38af-738f-2efb401334c0,15,83058.64,5537.242666666667,65934.91,17123.730000000003,7.891111111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+229e0863-8c9e-52d0-d2b2-0d06968df07e,3,8382.72,2794.24,0.0,8382.72,1.5,Moderate Utilization,Moderate Cost,Standard
+23156a2b-6ae9-0046-f4a0-d8febd866416,49,259859.36000000002,5303.25224489796,14527.460000000001,245331.9,14.112222222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+231fea1e-4ab1-757c-4166-eb7bfd780007,4,9866.01,2466.5025,7761.19,2104.8200000000006,1.75,Moderate Utilization,Moderate Cost,Standard
+238ae918-f31e-2866-4dc5-de654dc5df20,3,563.74,187.91333333333333,207.65,356.09000000000003,0.75,Moderate Utilization,Low Cost,Standard
+23b4e525-5b25-0478-9986-f7e095ad23c5,2,285.16,142.58,164.12,121.04000000000002,0.5,Low Utilization,Low Cost,Standard
+23cdcb5d-969b-12a3-0d79-816a206c14a9,4,988.14,247.035,0.0,988.14,1.0,Moderate Utilization,Low Cost,Standard
+24524043-5b78-4bcb-24f5-008183d2bf95,4,855.7299999999999,213.93249999999998,0.0,855.7299999999999,2.5,Moderate Utilization,Low Cost,Standard
+2452ac97-2805-3d73-cb55-ae0bb6a0ddf5,7,1653.25,236.17857142857142,0.0,1653.25,1.768888888888889,High Utilization,Low Cost,Elevated Utilization or Cost
+2485bada-a5bd-8afe-ea7c-99cc827a9e57,13,28652.949999999997,2204.0730769230768,0.0,28652.949999999997,3.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+248c730b-6c13-585e-326b-3d612c7ba850,3,772.65,257.55,190.86,581.79,0.75,Moderate Utilization,Low Cost,Standard
+24b0ed82-881c-f7f3-cc32-3ab2faabecbf,5,1221.81,244.362,722.24,499.57,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+2528e44d-1ae3-9e78-01f8-3b8ac3d30b53,9,17192.7,1910.3000000000002,0.0,17192.7,3.571944444444444,High Utilization,Moderate Cost,Elevated Utilization or Cost
+25369967-2190-01b9-ff98-d32525e3767b,6,21137.93,3522.9883333333332,5200.31,15937.619999999999,1.9288888888888889,High Utilization,Moderate Cost,Elevated Utilization or Cost
+253eb00a-14cd-d4f1-b253-9ab9d681ac55,1,25546.11,25546.11,20404.89,5141.220000000001,0.25,Low Utilization,High Cost,Standard
+2580b322-651e-2381-4916-9186b5d86433,1,39717.36,39717.36,31741.89,7975.470000000001,0.25,Low Utilization,High Cost,Standard
+2607919d-bfeb-acb1-9bf4-3716a460f970,5,80008.39,16001.678,63731.76,16276.629999999997,2.0,Moderate Utilization,Very High Cost,Elevated Utilization or Cost
+260bbd84-c268-4f95-8dae-daafec137187,5,1400.05,280.01,576.38,823.67,1.3652777777777778,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+26136855-fd32-a9cf-17d6-5eebf49bb81a,17,33762.82,1986.0482352941176,26460.12,7302.699999999999,5.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+26a24d89-5f31-caf8-0904-94bf028cf3b9,2,988.56,494.28,749.13,239.43,0.5,Low Utilization,Low Cost,Standard
+26c008d3-cbe2-ff47-744d-cf2a82a480fc,9,44349.119999999995,4927.679999999999,0.0,44349.119999999995,4.128055555555555,High Utilization,High Cost,Elevated Utilization or Cost
+26df26e6-6496-8375-ac92-09d65ed8165b,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+2719fc7b-15c7-b325-5cb9-958e47ee72a0,18,32965.08,1831.3933333333334,30290.8,2674.2800000000016,11.170833333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+274d593d-6f24-3f40-29ce-7496d7c2bced,1,23801.71,23801.71,19009.37,4792.34,0.25,Low Utilization,Moderate Cost,Standard
+27ba919a-3f7c-0c4f-31f8-56932ab1ad93,13,12768.77,982.213076923077,11845.32,923.4500000000003,3.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+283af64b-5b12-f971-6129-f638491a4a5b,55,563662.84,10248.415272727272,447003.17,116659.67,848.6038888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+28fb4473-1424-1fda-aa52-105bd7abaec3,8,47103.69,5887.96125,381.72,46721.97,3.821111111111111,High Utilization,High Cost,Elevated Utilization or Cost
+29784b41-3c90-344a-9575-82823cf83347,9,49023.23,5447.025555555556,6456.849999999999,42566.380000000005,4.821944444444444,High Utilization,High Cost,Elevated Utilization or Cost
+297df74b-5a13-2583-b4c0-83a4bc131806,5,830.2,166.04000000000002,0.0,830.2,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+2999ffe8-ab8a-3afa-ab9e-aa40fa162e8c,5,24704.190000000002,4940.838000000001,19466.570000000003,5237.62,313.69972222222225,Moderate Utilization,High Cost,Elevated Utilization or Cost
+299f7173-b659-012b-8870-80fc44d059ad,24,85729.18000000001,3572.049166666667,11690.04,74039.14,33.42333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+29dfa5c2-9e82-f971-4ec0-13274b8d2700,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+2a1fdd2a-bd79-8e25-2ff4-9d60f48e6597,39,55107.37,1413.0094871794872,43181.27,11926.099999999999,18.196666666666665,Very High Utilization,High Cost,Elevated Utilization or Cost
+2a7a94c5-3cd1-6394-8b70-1bf16194e550,9,1500.37,166.70777777777778,0.0,1500.37,2.9588888888888887,High Utilization,Low Cost,Elevated Utilization or Cost
+2a7b693e-35e5-8f5a-2318-6ea990cdc5bb,16,11981.58,748.84875,9022.220000000001,2959.3599999999997,4.933333333333334,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+2a7c44d6-d786-a897-39a0-352e4d20f44f,2,421.15999999999997,210.57999999999998,210.10000000000002,211.06,0.5,Low Utilization,Low Cost,Standard
+2aa3ac2a-88c6-3253-547d-6d8ed69790a3,120,2699823.1,22498.525833333333,0.0,2699823.1,30.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+2adb98ef-76d9-8498-ada0-d006279f8d8e,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+2ae41957-7fa9-fe22-5835-59c56d0a1861,18,31715.59,1761.9772222222223,25137.199999999997,6578.39,5.55,Very High Utilization,High Cost,Elevated Utilization or Cost
+2af76817-8b75-59b4-0678-bb3d5690f5a9,19,53155.590000000004,2797.6626315789476,0.0,53155.590000000004,5.238888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+2b12ef12-3dbb-7c36-5642-88c24407dfed,7,10409.060000000001,1487.0085714285717,6572.7699999999995,3836.2900000000004,2.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+2b551657-ff45-aef8-b16e-fd0da9e331cd,15,33437.89,2229.192666666667,0.0,33437.89,4.317222222222222,Very High Utilization,High Cost,Elevated Utilization or Cost
+2b789198-0c0c-fd84-3001-98d81f721295,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+2bbe538c-3a52-93d7-f68a-af7d2560e1a5,50,32221.45,644.429,8376.1,23845.35,18.485277777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+2bc0387b-9412-d275-00b0-bd3c215483e5,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+2be14cbb-edfe-6a44-58fb-9754f52a5c15,1,85.55,85.55,36.44,49.11,0.25,Low Utilization,Low Cost,Standard
+2c0acac5-9be4-cc1f-c31f-70b05e1390f9,2,557.16,278.58,381.72,175.43999999999997,0.5,Low Utilization,Low Cost,Standard
+2ca3028c-9848-488e-03ee-ce3c2ce6563b,32,4059.0699999999997,126.84593749999999,305.38,3753.69,79.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+2d8fd2b9-e54b-42fd-05e9-58aa625eabeb,5,1266.72,253.344,263.58,1003.1400000000001,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+2daa6180-c38d-f9f1-1893-d0c0d40f57ce,21,33574.85,1598.8023809523809,30096.04,3478.809999999999,7.647222222222222,Very High Utilization,High Cost,Elevated Utilization or Cost
+2dae7142-8892-cc88-cf5f-24868b0fbd75,57,6277.8,110.13684210526316,0.0,6277.8,17.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+2e3709a9-aa78-7c92-f642-efe40e4be1b1,3,17702.46,5900.82,0.0,17702.46,1.5,Moderate Utilization,Moderate Cost,Standard
+2e5386f0-85c7-6a17-ed77-d8fcecb78b9d,33,101938.1,3089.0333333333333,79643.52,22294.58,36.257222222222225,Very High Utilization,Very High Cost,High Risk / High Utilization
+2f5231cb-2f6b-1bf8-203c-09cd308fb983,15,4871.59,324.7726666666667,3402.96,1468.6299999999999,3.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+2f6c035b-a11d-9373-89af-0cb2195592d2,27,309322.71,11456.396666666667,289045.41,20277.300000000007,392.55805555555554,Very High Utilization,Very High Cost,High Risk / High Utilization
+2fba7dea-4301-5e5d-e855-04e47ae148d9,1,149.27,149.27,0.0,149.27,1.0,Low Utilization,Low Cost,Standard
+3013a2e6-4d66-d9fe-3446-a681a0f90d10,12,24035.6,2002.9666666666665,15593.37,8442.23,4.469166666666666,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+30a71264-b2f8-fc1b-46fc-ff6ad37c8d13,41,63266.979999999996,1543.0970731707316,49269.48,13997.499999999998,17.00027777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+30de7fd4-ffab-b738-ba5b-cb630dad3d5c,3,642.71,214.23666666666668,0.0,642.71,0.75,Moderate Utilization,Low Cost,Standard
+313d2627-15e7-c9a3-489b-dfaf1a8cf138,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+319b5f97-a1ae-70f8-d17a-5b8dacbc9b67,1,10835.62,10835.62,8636.5,2199.120000000001,0.25,Low Utilization,Moderate Cost,Standard
+31d28b5d-a782-52ae-7b09-77c306369337,26,63988.3,2461.0884615384616,50184.3,13803.999999999998,6.504722222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+31e8222a-372c-279f-0155-2b188e653fa8,4,126449.6,31612.4,0.0,126449.6,2.5,Moderate Utilization,Very High Cost,Elevated Utilization or Cost
+323fb295-2d77-8e1d-8288-8f263f60c4b9,1,278.58,278.58,207.65,70.92999999999998,0.25,Low Utilization,Low Cost,Standard
+32c628f3-5fc3-2cdb-97e3-b1a6f8d28be8,13,28495.190000000002,2191.9376923076925,22252.0,6243.190000000001,29.2125,Very High Utilization,High Cost,Elevated Utilization or Cost
+32c7b37e-7b91-49f2-e3ce-5974515804db,18,16517.44,917.6355555555555,0.0,16517.44,28.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+334ef90d-932c-005d-9714-543546cc7a93,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+33cb9b23-2cf0-28a0-6ad1-2d067022b7bc,33,343878.97,10420.574848484848,0.0,343878.97,11.481388888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+33db95d3-8745-7a3b-ff41-ddfb29a9043e,20,245964.15,12298.2075,230170.49,15793.659999999996,6.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+33e16189-91d6-c761-f105-12742c6e5d42,22,39404.07,1791.094090909091,10591.419999999998,28812.65,8.154722222222222,Very High Utilization,High Cost,Elevated Utilization or Cost
+33f31a4c-e818-d9cf-8ea8-7c0430884a9d,22,87399.52,3972.705454545455,0.0,87399.52,6.879444444444444,Very High Utilization,Very High Cost,High Risk / High Utilization
+347aae44-7c6d-5deb-76af-4c8603a59fa1,21,301951.2,14378.628571428571,240146.22,61804.98,6.878333333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+347e81ff-1c87-b2e2-cd87-6c3ee7c773c0,11,60691.64,5517.421818181818,47966.89,12724.750000000004,2.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+3531d861-1f85-cdf8-63da-4a5b052410dd,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+3555368f-95c4-4b24-c810-51a9befaf195,16,104015.09,6500.943125,82504.37,21510.72,78.91388888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+3583d5d3-b197-8861-8628-c4426ca361fa,24,20928.8,872.0333333333333,15962.59,4966.21,6.874722222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+3585571b-bf18-f747-7070-9b3f8767b7e0,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+358775ff-7a45-d881-7a3d-e26b06732f1a,1,215.49,215.49,0.0,215.49,0.25,Low Utilization,Low Cost,Standard
+36412d54-5a49-0dc6-5bab-3749c92f79d9,140,46001.2,328.58,15856.39,30144.81,61.64861111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+36610533-fdd2-c855-a0c3-085bf30eebfc,37,342642.07,9260.596486486487,0.0,342642.07,13.793333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+3689e378-98f6-c3f4-dcb5-ff2128f65221,19,3713.0099999999998,195.4215789473684,119.78,3593.23,5.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+368c2123-8a56-2b9f-f0f4-fa88c47d2265,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+370fa5c5-3ef3-b549-600c-3fd4cee3b400,34,349103.29,10267.74382352941,192395.26,156708.03,36.269444444444446,Very High Utilization,Very High Cost,High Risk / High Utilization
+37448778-ee2f-f420-1dc0-cb6b5e147025,53,1206558.16,22765.24830188679,0.0,1206558.16,13.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+379ec7a4-4c0e-79cd-7945-610f3185a866,3,427.74,142.58,246.18,181.56000000000003,0.75,Moderate Utilization,Low Cost,Standard
+37c534cb-af56-727f-b4ec-ba91f53b7f14,18,78285.26,4349.181111111111,72955.20999999999,5330.050000000002,8.642777777777777,Very High Utilization,Very High Cost,High Risk / High Utilization
+381e16cd-86c8-d369-cd76-2dd9e0b5faf5,268,128142.11,478.1422014925373,90486.36,37655.75,218.99083333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+3854c2ea-24a8-1aaa-9d17-3a5c09a10a58,25,184979.6,7399.184,119238.78,65740.81999999999,57.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+38d06ba3-8410-0eb4-fbf8-d223e590bdee,17,7681.110000000001,451.83000000000004,5563.73,2117.38,4.3116666666666665,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+38f9b2af-728b-f4ea-7d45-1f6e21b027cf,31,24660.45,795.4983870967742,21010.73,3649.719999999997,295.7752777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+3908f7b2-3cc0-e8cc-bf52-0678ee0d3346,21,14659.78,698.084761904762,0.0,14659.78,6.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+394f3e43-784c-b938-adb6-4b69efd46bbf,63,567891.96,9014.158095238095,23888.1,544003.86,48.53805555555556,Very High Utilization,Very High Cost,High Risk / High Utilization
+395b49ba-e379-f851-10e4-607623e7599c,105,113242.3,1078.4980952380952,12848.56,100393.74,267.3333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+3a1d301c-51c6-0b6d-4972-8ab5c69aefbb,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+3a760999-9273-f614-a31d-cb134cd40c31,16,30589.98,1911.87375,0.0,30589.98,6.071666666666666,Very High Utilization,High Cost,Elevated Utilization or Cost
+3a8d5181-bb73-337d-f8cb-ea19f1c1b561,32,373308.31,11665.8846875,296773.4,76534.91,399.49805555555554,Very High Utilization,Very High Cost,High Risk / High Utilization
+3ae485ef-7db3-6ad4-5199-e315fafc1725,1,12240.52,12240.52,11533.49,707.0300000000007,0.25,Low Utilization,Moderate Cost,Standard
+3b092a8e-8080-ff09-1f27-98d9f1cf9073,27,101188.62,3747.7266666666665,79922.61,21266.01,11.819444444444445,Very High Utilization,Very High Cost,High Risk / High Utilization
+3b46a0b7-0f34-9b9a-c319-ace4a1f58c0b,96,68113.2,709.5124999999999,16759.31,51353.89,30.400833333333335,Very High Utilization,Very High Cost,High Risk / High Utilization
+3b66a28f-3d17-6260-d733-82b0951bb03d,182,51258.29,281.63895604395606,32894.56,18363.73,136.86666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+3b79fa50-ca23-b752-c292-9ba4cac97377,108,157070.27,1454.3543518518518,115392.38,41677.88999999999,265.47027777777777,Very High Utilization,Very High Cost,High Risk / High Utilization
+3d17f121-e015-683b-df1e-21e1ddbaab9c,60,535232.95,8920.549166666666,133071.21,402161.74,170.79722222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+3de74169-7f67-9304-91d4-757e0f3a14d2,877,819279.19,934.1837970353478,0.0,819279.19,2196.2166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+3e439b99-10ce-4bdb-5b8c-624f5664fb07,13,53229.03999999999,4094.541538461538,49608.87,3620.1699999999973,6.692777777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+3e834f22-c366-4385-cbee-c11e3feb329a,4,60192.42,15048.105,47852.48,12339.94,25.5,Moderate Utilization,High Cost,Standard
+3ed58986-6853-12d0-9c13-04b85de570d1,5,2582.06,516.412,381.72,2200.34,2.0,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+3f17d805-d276-efc9-d4bd-feaa3fd66db9,17,77731.76,4572.456470588235,65619.81,12111.949999999999,5.323611111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+3f523789-55f3-bb31-2757-4803ca6a9c2a,447,9932262.99,22219.827718120807,0.0,9932262.99,240.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+3fd1cb71-cb51-294b-3136-ee38563d2f72,29,241836.11,8339.17620689655,54845.32000000001,186990.78999999998,11.2025,Very High Utilization,Very High Cost,High Risk / High Utilization
+3fe3c17f-bf2f-8f26-55db-d078949a8002,19,49905.6,2626.6105263157892,39668.369999999995,10237.23,6.103888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+40163e87-ac6c-2c36-deb8-871fa05e7bca,9,4941.86,549.0955555555555,457.62,4484.24,3.0,High Utilization,Moderate Cost,Elevated Utilization or Cost
+403539aa-e453-2c90-0f3f-622dac14ba78,15,14915.68,994.3786666666667,0.0,14915.68,5.142222222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+407dce01-5c73-329d-36fb-ef8829f23a36,5,763.87,152.774,387.09,376.78000000000003,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+4088b125-c5e6-5ec2-3162-8d26f5ef0878,7,34583.78,4940.54,0.0,34583.78,26.738333333333333,High Utilization,High Cost,Elevated Utilization or Cost
+40a35599-ab4e-7b04-2759-10e850f9a896,74,149346.12,2018.1908108108107,114626.48999999999,34719.630000000005,24.598333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+40d0788e-2542-4b99-317b-d04b738c7480,10,2567.61,256.761,0.0,2567.61,3.25,High Utilization,Low Cost,Elevated Utilization or Cost
+40f677b5-b9e8-13f1-df61-60a3003c93f9,32,29616.81,925.5253125,22502.63,7114.18,15.931111111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+40fd8032-aff7-ec24-bffa-66a09cb2c77d,76,104186.01,1370.868552631579,888.71,103297.3,951.6388888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+4111766b-a955-ebac-86d1-d208258bdb64,22,68622.42,3119.200909090909,54177.52,14444.900000000001,12.215555555555556,Very High Utilization,Very High Cost,High Risk / High Utilization
+414982b9-1a0b-1c7c-9dd1-00fca01a4ade,29,65062.94,2243.549655172414,15929.55,49133.39,10.29888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+4154af3b-78c7-4458-f02f-b7505643dc97,21,40948.380000000005,1949.9228571428573,28484.549999999996,12463.830000000002,6.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+4156dbc4-9dfc-5293-34d0-4a8506fa91fa,14,13886.2,991.8714285714286,10644.519999999999,3241.6800000000007,5.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+415e1d82-d8cb-d7af-68a7-bf80c1faeee8,27,114832.47,4253.054444444445,90347.26000000001,24485.209999999992,7.8741666666666665,Very High Utilization,Very High Cost,High Risk / High Utilization
+4166c754-2e63-c55f-a959-874bc1b47366,19,248226.81,13064.568947368422,197326.03,50900.77999999999,5.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+41a6be0c-6388-3b28-daff-dc60e5d6d61b,74,87124.05,1177.3520270270271,49932.4,37191.65,70.60249999999999,Very High Utilization,Very High Cost,High Risk / High Utilization
+41be6472-0a71-ef60-74f5-94601045eb15,38,100344.42,2640.642631578947,15813.22,84531.2,485.0511111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+41ec7178-075b-3b69-28f2-2f2ad64cdc88,1,278.58,278.58,152.69,125.88999999999999,0.25,Low Utilization,Low Cost,Standard
+421ea286-6406-86b7-c404-9ecba2eebe85,30,51304.9,1710.1633333333334,20298.68,31006.22,14.58388888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+4247a05f-9fde-02c7-8fb8-97caeac6ec4b,3,563.74,187.91333333333333,354.98,208.76,0.75,Moderate Utilization,Low Cost,Standard
+425eb47e-9025-e5b9-2690-42e32c167a8d,3,914.71,304.90333333333336,0.0,914.71,0.75,Moderate Utilization,Low Cost,Standard
+42d47ab6-c31b-2815-38c2-43cba1744dce,4,21504.54,5376.135,0.0,21504.54,2.2375,Moderate Utilization,Moderate Cost,Standard
+42db7d7c-cfce-053b-7177-b21b3e438ad6,4,1222.05,305.5125,844.82,377.22999999999996,1.0822222222222222,Moderate Utilization,Low Cost,Standard
+433fdc27-c391-c052-e67c-4dc639127c0d,10,13451.52,1345.152,8468.85,4982.669999999999,27.02138888888889,High Utilization,Moderate Cost,Elevated Utilization or Cost
+4341bd2f-4e83-c6aa-aec3-42eb441dce2d,6,9500.92,1583.4866666666667,5675.3,3825.619999999999,2.2591666666666668,High Utilization,Moderate Cost,Elevated Utilization or Cost
+436a6472-8aff-5c2a-fe5c-a0ed1d4692f9,117,66303.0,566.6923076923077,4277.09,62025.91,106.23,Very High Utilization,Very High Cost,High Risk / High Utilization
+43a51b6e-c5b6-7033-f39c-acf7a7be7eeb,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+43e50fdd-f126-eacc-0a77-55d6c20bdf71,5,1030.34,206.06799999999998,168.24,862.0999999999999,1.2727777777777778,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+442dc617-c7f2-0513-15cd-c35c4efdba73,392,156858.67,400.149668367347,23241.99,133616.68,162.11388888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+44a8958e-0db5-8b29-637a-c1af40b8e2e2,13,12643.34,972.5646153846154,10050.65,2592.69,3.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+44d8a50d-250d-092f-b58d-3292e3e24891,20,56406.28,2820.314,0.0,56406.28,6.773888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+44f7e37c-273c-cf1b-4812-a64f0cf052ca,53,648980.73,12244.919433962265,390456.58,258524.15,17.785555555555554,Very High Utilization,Very High Cost,High Risk / High Utilization
+44ff035f-e479-9692-ce05-37d191aacbe0,12,96855.70999999999,8071.309166666666,77100.58,19755.129999999997,7.558888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+45143d96-1165-e949-2c51-422c2df7c679,56,281683.11,5030.055535714286,155911.38,125771.73,16.8725,Very High Utilization,Very High Cost,High Risk / High Utilization
+453d2d76-d5ed-50a1-91df-d709799e2d3b,5,56219.53,11243.905999999999,24423.77,31795.76,2.6333333333333333,Moderate Utilization,High Cost,Elevated Utilization or Cost
+45b87421-394d-6654-4d81-6cb5b165e455,26,63334.04000000001,2435.9246153846157,22560.870000000003,40773.170000000006,7.128333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+45e08730-8bbe-9e4b-f247-044600ee4b75,29,50849.36,1753.4262068965518,0.0,50849.36,12.731944444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+4624c1cc-f716-dda3-233f-2ba5bd8401ad,4,11965.27,2991.3175,0.0,11965.27,1.0858333333333334,Moderate Utilization,Moderate Cost,Standard
+46d8a638-ea69-331f-8b8e-003addae311c,9,21090.18,2343.3533333333335,0.0,21090.18,3.1144444444444446,High Utilization,Moderate Cost,Elevated Utilization or Cost
+46d8cf44-3ed3-c7b0-bca7-7f3ffd83b8df,1,85.55,85.55,36.44,49.11,0.25,Low Utilization,Low Cost,Standard
+47019c19-45f4-6d5d-b54a-34e61e8aa321,15,309357.46,20623.83066666667,0.0,309357.46,245.6038888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+470e7dd9-9788-57f6-ee81-1e9acb075c1c,8,43810.82,5476.3525,0.0,43810.82,2.3922222222222222,High Utilization,High Cost,Elevated Utilization or Cost
+4753add3-97f2-4389-8f96-2ed778db45c5,4,640.55,160.1375,0.0,640.55,1.0,Moderate Utilization,Low Cost,Standard
+48138f76-9337-3964-dafd-6574ebf12f30,3,1781.9299999999998,593.9766666666666,0.0,1781.9299999999998,1.8333333333333333,Moderate Utilization,Low Cost,Standard
+481cc195-b1b2-d08d-990d-e6f588a619ea,2,716.5600000000001,358.28000000000003,509.24,207.32000000000002,0.5,Low Utilization,Low Cost,Standard
+48388274-c84f-55c9-40d0-342a61980fc6,10,2337.48,233.748,1400.69,936.79,2.5,High Utilization,Low Cost,Elevated Utilization or Cost
+48b3973f-fea1-1601-52e9-c6dbaf4bf550,18,107447.82,5969.323333333334,85265.86,22181.96,4.835,Very High Utilization,Very High Cost,High Risk / High Utilization
+49bc1d54-ed70-7ec5-02cb-76c178292427,42,704403.97,16771.523095238095,559834.49,144569.48,651.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+49d8bda4-817c-fa83-35fa-fc76f3178f57,12,24244.41,2020.3675,0.0,24244.41,52.033055555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+4aae2c97-0926-2095-ec40-a43ab2aaa9b9,68,203440.38,2991.770294117647,1559.14,201881.24,495.0413888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+4af27943-2726-fdbd-3db7-f7e52aead5e8,7,30055.39,4293.627142857143,0.0,30055.39,1.9986111111111111,High Utilization,High Cost,Elevated Utilization or Cost
+4aff5ff6-85b5-4253-5d00-b83a2ac90851,17,13394.74,787.9258823529411,10083.24,3311.5,5.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+4b809eb5-7473-e21e-fe9f-3684987d8654,19,25886.28,1362.435789473684,33.97,25852.309999999998,6.060555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+4bea6e9f-cbbe-e6ce-3a61-3ef3aca43637,17,54826.82,3225.1070588235293,43245.25,11581.569999999998,11.885277777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+4c1a0408-1189-83df-4ae5-8d6311b97aea,16,29958.45,1872.403125,7227.36,22731.09,5.558055555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+4c25c278-f6f6-6992-c4d0-70fa62840f6f,4,994.2,248.55,526.96,467.23999999999995,1.0,Moderate Utilization,Low Cost,Standard
+4c845125-220e-960e-03da-9189d4fd70bb,46,555236.25,12070.353260869566,440668.95,114567.29999999999,819.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+4ca3cb7c-c647-4dd8-c152-232cefec81b6,16,12616.46,788.52875,9866.83,2749.6299999999997,27.911944444444444,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+4cbfd66f-4b8a-2c2f-5307-a11f46f7bd0c,1,41062.61,41062.61,32818.09,8244.520000000004,0.25,Low Utilization,High Cost,Standard
+4cc385a8-1c20-abbb-514e-b35936ac7c48,32,27549.219999999998,860.9131249999999,20916.36,6632.86,39.43416666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+4ccb1d0f-6861-58a2-dde4-983716f6349b,8,45938.89,5742.36125,36412.619999999995,9526.27,4.25,High Utilization,High Cost,Elevated Utilization or Cost
+4cff4d5b-1d38-817f-6af7-b1642c687b21,150,99571.38,663.8092,72368.51999999999,27202.86,42.88666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+4d4b170a-87fe-5f0d-4711-32e6e2919e9e,10,65279.48999999999,6527.948999999999,51901.56,13377.929999999993,4.31,High Utilization,Very High Cost,High Risk / High Utilization
+4d4ec49d-094d-5c29-760c-84079953ef4b,18,42365.98,2353.665555555556,23887.7,18478.280000000002,12.424444444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+4d55540d-c43d-e6e8-5364-ec2509df31e3,15,45482.54,3032.1693333333333,15169.61,30312.93,6.324722222222222,Very High Utilization,High Cost,Elevated Utilization or Cost
+4dee598f-fd6b-6214-2175-c41c3307a43c,4,1708.58,427.145,0.0,1708.58,1.75,Moderate Utilization,Low Cost,Standard
+4e039b95-d4be-2869-acf9-9e5bdd8901fb,9,20871.36,2319.04,4935.09,15936.27,3.5872222222222225,High Utilization,Moderate Cost,Elevated Utilization or Cost
+4e0d82d6-3f47-cf4e-c2c4-8b8096d43a4b,9,3200.57,355.61888888888893,0.0,3200.57,3.0,High Utilization,Moderate Cost,Elevated Utilization or Cost
+4eea0321-5c66-261e-a0cd-0813e19a995b,11,13903.23,1263.93,2952.77,10950.46,3.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+4f966eb8-d93f-fbfc-298e-8a90ebdeafbe,76,294777.26,3878.648157894737,275286.88,19490.379999999994,69.78166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+4fa333c9-2380-ecb9-f346-221c14eeb011,19,82771.21,4356.379473684211,77092.57,5678.64,280.23,Very High Utilization,Very High Cost,High Risk / High Utilization
+500acdfe-d563-b822-a725-66cf17d165ff,26,54942.09,2113.1573076923078,48722.28,6219.8099999999995,7.728611111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+505c4a44-212e-c4ea-5358-9d927e391b63,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+50723ad0-36ac-615b-14dc-ca93019aba6b,26,4251.08,163.50307692307692,101.38,4149.7,6.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+5072b706-d9ce-3364-49f8-f48662a19f57,51,150303.38999999998,2947.1252941176467,23168.05,127135.34,18.23611111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+509df6f0-3012-d067-317b-375ccaa8f3d9,7,12844.99,1834.9985714285715,1759.39,11085.6,4.079722222222222,High Utilization,Moderate Cost,Elevated Utilization or Cost
+50f54835-c57f-537f-37fe-e59110b889cd,17,153813.92,9047.877647058824,26478.02,127335.9,29.083333333333336,Very High Utilization,Very High Cost,High Risk / High Utilization
+51068860-7e91-95ec-0214-0dc5abb284cd,35,28939.280000000002,826.8365714285715,0.0,28939.280000000002,579.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+51085ead-b5c8-2a98-9dab-6cbb3ec2208c,3,642.71,214.23666666666668,0.0,642.71,0.75,Moderate Utilization,Low Cost,Standard
+512ea0ee-ef07-fd6c-4cba-8318dc996075,9,8520.48,946.7199999999999,7577.650000000001,942.8300000000002,3.5186111111111114,High Utilization,Moderate Cost,Elevated Utilization or Cost
+513c979c-9234-7182-7b47-a20d4784f86f,31,156351.22,5043.587741935484,81812.36,74538.86,11.4575,Very High Utilization,Very High Cost,High Risk / High Utilization
+515381f8-e24c-b579-8184-b868e6062dbe,7,26261.94,3751.7057142857143,0.0,26261.94,2.6,High Utilization,High Cost,Elevated Utilization or Cost
+5175fb3e-b250-7587-b9e4-ad7e9f3d1106,22,7858.450000000001,357.20227272727277,5451.71,2406.7400000000002,11.691666666666666,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+521e998b-ff0e-767f-b0ee-2bdf1168d66c,21,63644.27,3030.6795238095237,50330.75,13313.519999999997,6.449166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+5225f1fe-4646-8467-3a32-306b2512d0e2,22,30751.0,1397.7727272727273,0.0,30751.0,12.88,Very High Utilization,High Cost,Elevated Utilization or Cost
+5318b05b-9036-40da-db8e-275d4aa429d3,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+53464e50-0470-0a74-5fde-151a6275352c,16,109184.78,6824.04875,87014.88,22169.9,4.3925,Very High Utilization,Very High Cost,High Risk / High Utilization
+53859bba-1c60-f385-37d1-1140524ae455,34,4643.32,136.56823529411764,1342.62,3300.7,105.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+53a74f22-fdb4-ae9a-6ac4-79bad2126039,35,390706.43,11163.040857142856,138337.81,252368.62,15.189166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+541d4473-a17c-c5f4-5213-285530580665,2,21222.4,10611.2,16876.309999999998,4346.090000000002,2.0,Low Utilization,Moderate Cost,Standard
+5427845a-82ab-b6c9-e70b-aeb672ddd5d7,149,707094.17,4745.598456375839,560859.04,146235.13,37.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+54889029-0a1e-0b75-5980-1c091dd4bc0e,91,148664.84,1633.6795604395604,102467.52,46197.32,9510.480833333335,Very High Utilization,Very High Cost,High Risk / High Utilization
+54fa6047-1c9b-160e-5de5-740e143b28fe,8,1218.75,152.34375,0.0,1218.75,2.0,High Utilization,Low Cost,Elevated Utilization or Cost
+54fd7a2c-dfb3-9d9c-d678-b23b8dd6292b,7,11116.869999999999,1588.1242857142856,0.0,11116.869999999999,1.885,High Utilization,Moderate Cost,Elevated Utilization or Cost
+553f87ca-9a73-dc78-19dd-4cf92e84a4b5,14,59838.43,4274.173571428571,21695.99,38142.44,30.462222222222223,Very High Utilization,High Cost,Elevated Utilization or Cost
+556c6faa-5bd5-3893-e182-65490fb6f1bf,8,9367.869999999999,1170.9837499999999,7198.48,2169.39,2.75,High Utilization,Moderate Cost,Elevated Utilization or Cost
+55755f3f-ae6a-00fb-c58a-246074c8b798,14,31064.34,2218.8814285714284,9004.34,22060.0,3.8577777777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+55ae23ff-e1b5-2722-0304-85667b3dad8b,62,399008.53,6435.621451612904,160447.05,238561.48,22.9625,Very High Utilization,Very High Cost,High Risk / High Utilization
+5605b66b-e92d-c16c-1b83-b8bf7040d51f,18,159586.41999999998,8865.912222222221,0.0,159586.41999999998,6.6322222222222225,Very High Utilization,Very High Cost,High Risk / High Utilization
+56355c60-1f3a-03ef-57d6-0d9ca841df12,74,287108.54,3879.845135135135,56603.42,230505.12,26.83138888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+56d82cb9-01fb-63bf-0ae4-5f2bdd236747,8,1499.72,187.465,0.0,1499.72,51.75,High Utilization,Low Cost,Elevated Utilization or Cost
+57b6f273-adff-e2af-89cd-9a2da1dcd108,7,21079.670000000002,3011.381428571429,15.82,21063.850000000002,3.1433333333333335,High Utilization,Moderate Cost,Elevated Utilization or Cost
+57cca2cf-0a10-eca8-22ce-d924796b1b42,7,30365.36,4337.908571428571,24056.49,6308.869999999999,3.2555555555555555,High Utilization,High Cost,Elevated Utilization or Cost
+57e9bf0d-8231-61a8-7474-58568e0bc96c,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+587e7054-29d1-8d0e-a9d3-adc00db3441f,24,41467.93,1727.8304166666667,32289.15,9178.780000000002,7.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+5936f828-81d9-1a90-03b1-cfe49183dba8,21,61568.57,2931.8366666666666,48524.06,13044.51,7.413611111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+5944783d-1a65-c137-4f42-d7806b66489d,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+5950001c-1150-8823-389d-050cf998e792,4,1001.7200000000001,250.43000000000004,673.36,328.36,1.0,Moderate Utilization,Low Cost,Standard
+59814c0c-fdf8-c405-2007-83f9fa0bab85,20,27815.100000000002,1390.755,14192.689999999999,13622.41,9.283333333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+5995a611-8220-a5ed-7e0c-722c37675a2e,1,31409.66,31409.66,0.0,31409.66,0.25,Low Utilization,High Cost,Standard
+59dff29d-f177-6a8c-2693-c78f8e52995f,128,19202.24,150.0175,11265.28,7936.960000000001,32.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+59eaa628-f1d9-e83a-b0e0-708228fc3715,2,557.16,278.58,0.0,557.16,0.5,Low Utilization,Low Cost,Standard
+5a6a8021-4ba2-2ed5-9fb2-761a1278c259,13,168412.8,12954.830769230768,147968.42,20444.38,4.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+5a7a3f23-4c4a-756a-2e31-56ea40b98fc9,3,699.74,233.24666666666667,0.0,699.74,0.75,Moderate Utilization,Low Cost,Standard
+5b3b9db9-ce5d-71bf-9ee5-ea607c4172e8,10,8166.19,816.6189999999999,0.0,8166.19,2.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+5b4cf569-3ee7-14a6-1723-55d41bba2b9c,3,16279.6,5426.533333333334,0.0,16279.6,0.75,Moderate Utilization,Moderate Cost,Standard
+5bd6c434-6f51-6e53-4d0f-8d3889f377da,21,13061.24,621.9638095238095,820.19,12241.05,6.883333333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+5c3cf44b-e880-80ba-aca8-447c7180892c,66,46062.03,697.9095454545454,0.0,46062.03,43.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+5c99ac4b-faf9-a967-6911-ea7d5fe7507b,33,5189.860000000001,157.26848484848486,273.11,4916.75,12.930277777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+5d082cf5-b854-6cd7-e749-2678c96bec41,21,36584.399999999994,1742.1142857142854,1194.39,35390.01,7.289444444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+5d47b9ac-3f37-f400-1747-c6c6f92130aa,71,14921.3,210.15915492957745,0.0,14921.3,44949.198333333334,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+5da5d3a1-cce8-e185-8a00-938dfaa64363,17,23133.35,1360.785294117647,17910.18,5223.169999999997,5.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+5da5fb30-bbf5-eb27-071a-b6318f846152,25,50373.16,2014.9264,738.49,49634.67,14.133611111111112,Very High Utilization,High Cost,Elevated Utilization or Cost
+5dcb295d-92df-a147-ebcc-aa49b6262830,441,105080.78,238.2784126984127,44171.55,60909.23,118.41833333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+5e055638-0dad-dfd5-005d-1e74b6fd29ac,887,844913.74,952.552130777903,628529.62,216384.12,2162.65,Very High Utilization,Very High Cost,High Risk / High Utilization
+5e129b38-3d63-3692-2a53-c2b56f9d8af0,9,48576.28,5397.364444444444,6936.92,41639.36,2.8808333333333334,High Utilization,High Cost,Elevated Utilization or Cost
+5e3d58dd-39d9-19df-3539-8d54d3c0e4d5,3,259.91999999999996,86.63999999999999,72.81,187.11,0.75,Moderate Utilization,Low Cost,Standard
+5f024943-8f1c-965c-6d1c-9099435fe657,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+5f49f1b4-19fd-6f0d-0863-de06544e7364,40,60816.88,1520.422,31946.86,28870.02,486.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+6026d397-cb69-4ccb-8df9-6c9cb9e4ac1d,14,45641.7,3260.121428571428,22607.65,23034.05,5.0280555555555555,Very High Utilization,High Cost,Elevated Utilization or Cost
+6028f00f-dc23-ac7f-f688-fe9fb412095d,100,29331.65,293.3165,7680.66,21650.99,28.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+6073c513-0c9f-e4ec-587d-0a0b3c4d48a5,1,573.98,573.98,450.28,123.70000000000005,0.25,Low Utilization,Low Cost,Standard
+60958cdd-f11d-8b47-436a-d9b73213469c,2,2059.55,1029.775,1550.36,509.19000000000005,2.666666666666667,Low Utilization,Low Cost,Standard
+609e985d-e60f-aec0-49bf-78fd9945151e,6,4084.16,680.6933333333333,0.0,4084.16,2.25,High Utilization,Moderate Cost,Elevated Utilization or Cost
+60d2ab2e-7598-d257-4bb8-8982f1ba7800,1,573.98,573.98,450.28,123.70000000000005,0.25,Low Utilization,Low Cost,Standard
+60d2d35e-bd32-36df-b8e0-b64a3494f0e8,22,23416.15,1064.3704545454545,11230.740000000002,12185.41,1638.0858333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+6104d672-bd0e-0f8b-603b-0cd60067beda,19,3799.77,199.9878947368421,2422.63,1377.1399999999999,4.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+61b98f06-958d-a2ad-6743-1457e337fcc5,3,563.74,187.91333333333333,0.0,563.74,0.75,Moderate Utilization,Low Cost,Standard
+624e6dad-69f7-1f89-ca0b-5f77d4415ada,11,242956.51,22086.955454545456,176416.64,66539.87,4.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+62f367e5-9661-4871-a6ed-b468c7d1f991,21,31164.28,1484.0133333333333,1533.4,29630.88,5.370833333333334,Very High Utilization,High Cost,Elevated Utilization or Cost
+630e0faa-9d40-9d26-9b9a-6a4f6b1c120a,23,44458.14,1932.962608695652,0.0,44458.14,10.223611111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+6312a5b7-fd30-81b7-3106-4250ab6010fa,59,106225.62,1800.4342372881356,69785.37999999999,36440.24,492.2577777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+635a0b60-3ec2-c060-e378-85b12c5b49c9,2,421.15999999999997,210.57999999999998,286.1,135.06,0.5,Low Utilization,Low Cost,Standard
+63dd8d79-f75f-a1b2-2d68-9a5840f469ce,66,343544.91,5205.225909090908,74733.7,268811.21,19.344444444444445,Very High Utilization,Very High Cost,High Risk / High Utilization
+63ebbeb6-3160-da00-76a3-11888839703a,1,0.0,0.0,0.0,0.0,24.0,Low Utilization,Low Cost,Standard
+63f611e6-89cb-f3b8-c861-b074599c8c05,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+6443e813-1b9b-620c-f7de-af77f9d02733,197,28768.260000000002,146.0317766497462,16709.82,12058.440000000002,49.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+64903644-0d39-d9d1-b1d4-9da14ae1fe61,28,17081.83,610.0653571428572,453.04,16628.79,9.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+64e9bc14-d575-99a4-192b-514c00c0d660,1,414.58,414.58,254.69,159.89,0.25,Low Utilization,Low Cost,Standard
+655bae4a-fce9-bb11-dd9a-c1e2ecccecef,18,26133.52,1451.8622222222223,0.0,26133.52,6.146944444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+6565ba0d-dc8e-a49b-2b27-fcd6f4706acd,52,7013.45,134.87403846153845,3862.4900000000002,3150.96,38.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+66024135-2cc9-0ee8-046d-3df3a62774da,8,12513.73,1564.21625,6393.62,6120.11,2.7530555555555556,High Utilization,Moderate Cost,Elevated Utilization or Cost
+6746a7c0-1335-90e8-5006-04378f138f46,9,1384.0,153.77777777777777,21.36,1362.64,3.0,High Utilization,Low Cost,Elevated Utilization or Cost
+67628117-f48c-435d-ff7e-f73463b0b169,22,13497.539999999999,613.5245454545454,0.0,13497.539999999999,30.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+676fc84c-dac1-b821-13f4-453ade195e19,31,196516.78,6339.250967741936,124946.38,71570.4,33.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+68612f50-5e30-cfc6-afa3-056e6ec6b6f0,3,563.74,187.91333333333333,354.98,208.76,0.75,Moderate Utilization,Low Cost,Standard
+687477c9-6993-9506-1f88-d490ba921f32,16,156646.98,9790.43625,124556.55,32090.429999999997,27.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+6948196b-502e-3b25-db84-97da3bfe065e,10,2092.58,209.25799999999998,0.0,2092.58,2.5,High Utilization,Low Cost,Elevated Utilization or Cost
+69593e46-bac3-ecf0-a0cc-cc907ca5d6ff,16,42723.52,2670.22,33635.37,9088.149999999998,5.179166666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+6961609b-1268-6292-9c09-90355f9e73a9,51,1002661.7,19660.033333333333,347176.99,655484.71,12.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+69790209-5130-7140-2f03-b1010b81f724,9,53510.39,5945.598888888889,42382.57,11127.82,3.02,High Utilization,High Cost,Elevated Utilization or Cost
+6a1e509d-e141-cbb7-e321-3485a82517e1,3,1441.21,480.40333333333336,0.0,1441.21,2.35,Moderate Utilization,Low Cost,Standard
+6a377869-21cd-94d2-395d-155b999f4eac,186,27879.88,149.89182795698926,3413.7,24466.18,46.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+6ab7c57f-d1cf-b955-e205-261c29a54219,22,43793.01,1990.5913636363637,34085.92,9707.09,7.752222222222223,Very High Utilization,High Cost,Elevated Utilization or Cost
+6ae160e8-2a4a-b0d7-a3ed-3ce0da6c6843,56,51879.43,926.4183928571429,1194.9099999999999,50684.520000000004,15.340277777777779,Very High Utilization,High Cost,Elevated Utilization or Cost
+6ae2b519-ebba-c1ab-5215-fd3ec73acb09,31,45141.909999999996,1456.1906451612901,35409.47,9732.44,14.267777777777777,Very High Utilization,High Cost,Elevated Utilization or Cost
+6b495db9-938d-ef65-ee0d-1d4224e77157,7,18214.14,2602.02,14180.57,4033.5700000000006,25.830555555555556,High Utilization,Moderate Cost,Elevated Utilization or Cost
+6b6e8cda-703a-6a17-4943-b3bd1d709084,11,21790.13,1980.9209090909092,17016.46,4773.67,4.140833333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+6b874229-4e70-557d-609b-305f79204bdf,28,34659.24,1237.83,26761.37,7897.870000000001,245.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+6bb75dff-1c16-69a0-5ce7-8569ffe75327,11,4288.36,389.85090909090906,3071.11,1217.25,2.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+6bded11b-a3c4-efd2-c8fc-e73efdf28b9a,7,1270.06,181.43714285714285,792.02,478.03999999999996,1.75,High Utilization,Low Cost,Elevated Utilization or Cost
+6c019c93-ac9a-e532-df20-7426c541f057,8,14794.869999999999,1849.3587499999999,0.0,14794.869999999999,3.123611111111111,High Utilization,Moderate Cost,Elevated Utilization or Cost
+6c1ae433-7df2-17c1-9ab3-ef1ddc86d0ed,59,7578.6900000000005,128.45237288135593,158.15,7420.54,16.400833333333335,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+6c627601-f7ae-1488-def0-25b24e6fd94b,3,39663.82,13221.273333333333,31588.63,8075.1900000000005,3.0,Moderate Utilization,High Cost,Standard
+6ca009be-ff5b-d2c7-e841-876157296c76,2,15250.73,7625.365,12136.54,3114.1900000000005,26.01,Low Utilization,Moderate Cost,Standard
+6caff51c-a94b-11c1-5e8f-0e63d9dc4799,2,85.55,42.775,36.44,49.11,24.25,Low Utilization,Low Cost,Standard
+6cecb0ba-554a-342b-2054-8470fe9a8556,21,51490.04,2451.9066666666668,0.0,51490.04,6.795555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+6d285ea2-d91d-eaea-3203-7f9a7b430176,42,484835.61,11543.705,166546.38,318289.23,14.155277777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+6db51ae5-7f86-5a14-1ff0-283bbd212f87,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+6e34dcee-3c9e-8d2c-fe3e-6280c888fc9f,6,1321.9,220.3166666666667,780.36,541.54,1.5,High Utilization,Low Cost,Elevated Utilization or Cost
+6e5ae27c-8038-7988-e2c0-25a103f01bfa,1,150.04,150.04,84.94,65.1,1.0,Low Utilization,Low Cost,Standard
+6e8e0498-187a-d038-c7af-716b12e70455,21,3540.11,168.57666666666668,0.0,3540.11,8357.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+6f54d177-0d59-257b-8cd8-96d7c2254a04,2,17294.6,8647.3,13699.16,3595.4399999999996,2.6666666666666665,Low Utilization,Moderate Cost,Standard
+701481a6-6d01-4325-4ee4-2b985e642e7b,19,4849.2,255.22105263157894,1879.8300000000002,2969.37,6.306111111111111,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+7015216e-a987-963d-2dd3-afae2d18cb15,32,263242.33,8226.3228125,172.06,263070.27,12.141111111111112,Very High Utilization,Very High Cost,High Risk / High Utilization
+70338c50-5005-5031-95b1-0ef33f53b6d0,3,911.8699999999999,303.95666666666665,0.0,911.8699999999999,0.75,Moderate Utilization,Low Cost,Standard
+70e8be4c-7141-66e7-689b-107d851496fb,23,58642.78,2549.6860869565216,46103.85,12538.930000000002,8.642777777777777,Very High Utilization,High Cost,Elevated Utilization or Cost
+712e95dd-f313-39c7-1fc9-8463c15c105f,9,107943.31999999999,11993.702222222222,85868.21,22075.109999999993,27.25,High Utilization,Very High Cost,Elevated Utilization or Cost
+71756e27-01e1-98b1-27a7-87420b64dc7b,1,26875.55,26875.55,0.0,26875.55,312.34583333333336,Low Utilization,High Cost,Standard
+71da4401-2034-80cb-d797-ad90cee5649e,188,180967.41,962.5926063829787,0.0,180967.41,56.776666666666664,Very High Utilization,Very High Cost,High Risk / High Utilization
+720560d4-51da-c38c-ee90-c15935278df1,5,749.6300000000001,149.92600000000002,0.0,749.6300000000001,2.017777777777778,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+72583e9e-f80d-eaa9-79b3-435afcd0270d,9,3574.89,397.21,0.0,3574.89,2.25,High Utilization,Moderate Cost,Elevated Utilization or Cost
+72815c45-098d-611f-64c6-34d112c34930,20,64572.41,3228.6205,1031.03,63541.380000000005,5.7275,Very High Utilization,Very High Cost,High Risk / High Utilization
+72998151-b924-f8fd-4c02-45a4cfbb73ed,26,31260.66,1202.333076923077,24107.37,7153.289999999999,529.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+72ba1706-d583-967c-2975-e3d41f1b2e04,1,414.58,414.58,299.66,114.91999999999996,0.25,Low Utilization,Low Cost,Standard
+733678d5-4ba7-d464-4eda-b849e137a42c,4,11170.919999999998,2792.7299999999996,0.0,11170.919999999998,1.75,Moderate Utilization,Moderate Cost,Standard
+73babadf-5b2b-fee7-189e-6f41ff213e01,164,54672.76,333.37048780487805,11769.6,42903.16,72.71666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+7412b008-76f9-b713-c514-2a5d82e3b39e,59,983828.37,16675.05711864407,0.0,983828.37,1299.453888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+74179ddd-f79d-d338-e371-41e7baa6eaa5,8,8417.91,1052.23875,0.0,8417.91,2.0,High Utilization,Moderate Cost,Elevated Utilization or Cost
+74cdca0e-2569-c4bd-c985-8feb258ea72a,20,33574.44,1678.7220000000002,159.45999999999998,33414.98,12.45,Very High Utilization,High Cost,Elevated Utilization or Cost
+74f91c28-2811-67b8-8828-201f0e125dd5,8,54836.75,6854.59375,43563.9,11272.850000000002,4.25,High Utilization,High Cost,Elevated Utilization or Cost
+7506d350-0f35-7c82-3b8a-d7aa80114352,2,557.16,278.58,381.72,175.43999999999994,0.5,Low Utilization,Low Cost,Standard
+751490aa-3a00-9fe9-ca41-7cfa0fd0f686,31,48303.73,1558.1848387096775,37714.909999999996,10588.82,8.7675,Very High Utilization,High Cost,Elevated Utilization or Cost
+75149ab2-354b-18bb-c4e8-26c3191c6b66,36,5584.57,155.12694444444443,3219.58,2364.99,12.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+75e63977-5881-0193-fbc5-ee9950779d13,1,580.22,580.22,0.0,580.22,1.0,Low Utilization,Low Cost,Standard
+75fd900f-3dee-222d-7d5a-3a5ec03b85f2,2,557.16,278.58,0.0,557.16,0.5,Low Utilization,Low Cost,Standard
+7651a46a-6a53-1c75-2e79-6b726356c6e2,28,4400.240000000001,157.1514285714286,2624.08,1776.16,7.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+7676cb10-eb50-f66e-bba0-ec06c4281e01,14,15446.32,1103.3085714285714,11894.939999999999,3551.379999999999,4.400555555555556,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+76fc84f9-dd3d-18d7-e8a9-6203c3172f8b,2,285.16,142.58,0.0,285.16,0.5,Low Utilization,Low Cost,Standard
+770518e4-6133-648e-60c9-071eb2f0e2ce,27,202292.34,7492.308888888889,159903.7,42388.64,8.4375,Very High Utilization,Very High Cost,High Risk / High Utilization
+772961f8-03a3-9b6f-8dad-12a9a3b5e9a5,20,7441.66,372.08299999999997,159.45999999999998,7282.2,11.122777777777777,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+774d9246-5935-cb07-876a-ab106699ac21,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+778ba8e5-5f9b-31b7-e3b5-460a32c482b4,64,26032.77,406.76203125,18769.65,7263.12,21.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+77b70fa9-0340-4592-aea8-ca7d439ed251,8,15755.98,1969.4975,14506.84,1249.1400000000003,3.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+77dedc66-369c-bb18-940d-0db841255ef7,39,40259.24,1032.2882051282052,9816.57,30442.67,671.4969444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+7811ad1e-3baf-5d00-6664-01c7396f67c9,32,400880.07,12527.5021875,22155.49,378724.58,322.76944444444445,Very High Utilization,Very High Cost,High Risk / High Utilization
+787ffa08-33b8-3bac-1805-8d164ed52b88,3,158705.73,52901.91,126828.49,31877.240000000005,213.6636111111111,Moderate Utilization,Very High Cost,Elevated Utilization or Cost
+78979052-1a17-be9a-49b0-6dea844124da,19,63447.58,3339.346315789474,50114.36,13333.22,37.82888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+789b7ac0-52e3-b624-87d3-08a865460d71,17,33808.87,1988.7570588235296,26498.47,7310.4,12.634444444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+78af5d1b-9e8a-3e1b-dbc5-ab09520896fa,13,23466.27,1805.0976923076923,11388.83,12077.44,3.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+792c626d-e342-87a3-2c20-2a0e318198ef,9,24248.6,2694.288888888889,19046.21,5202.39,3.75,High Utilization,High Cost,Elevated Utilization or Cost
+795c2482-95b3-1fdc-05ba-49f205e9a3f0,46,394594.01,8578.130652173913,0.0,394594.01,15.518888888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+79e6db0a-808a-5154-4490-54a2c7a10b45,8,53428.28,6678.535,20278.09,33150.19,3.347777777777778,High Utilization,High Cost,Elevated Utilization or Cost
+79f82bae-1b4a-dd6a-58b3-7679fdfb7661,31,44798.84,1445.1238709677418,35155.41,9643.429999999998,10.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+7a956a5f-1ed6-bc2e-7fa2-f63052b29524,5,984.9000000000001,196.98000000000002,246.18,738.72,1.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+7aabb8a0-91a2-84e8-91f2-892cd9f0d3b8,3,563.74,187.91333333333333,0.0,563.74,0.75,Moderate Utilization,Low Cost,Standard
+7ab5b05c-24ea-ac16-f94b-05f704f888dc,12,8139.7699999999995,678.3141666666667,327.63,7812.14,3.102222222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+7ac9ddd0-1d38-ecf3-ba95-c5f0695cc6c0,2,557.16,278.58,381.72,175.43999999999994,0.5,Low Utilization,Low Cost,Standard
+7b1ef5a5-603f-67a4-e630-8e0a245f5e14,19,29363.41,1545.4426315789474,310.94,29052.469999999998,5.6386111111111115,Very High Utilization,High Cost,Elevated Utilization or Cost
+7b252795-9dab-ba2d-a431-45c85bb2b7b6,22,12419.63,564.5286363636363,0.0,12419.63,7.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+7b413bff-010c-161b-c7c2-11e16481e3a2,4,978.3199999999999,244.57999999999998,654.6400000000001,323.67999999999995,1.0,Moderate Utilization,Low Cost,Standard
+7b460abc-2763-2608-57bd-034b48c4ceb7,10,27788.37,2778.837,0.0,27788.37,119.04805555555555,High Utilization,High Cost,Elevated Utilization or Cost
+7b8d225b-a721-4f61-fea9-f1e828f92cc4,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+7b9258a3-2525-e24e-d5bf-4e1f25e96de8,2,421.15999999999997,210.57999999999998,0.0,421.15999999999997,0.5,Low Utilization,Low Cost,Standard
+7b945a11-d840-a9d3-3421-8a0372d5ff9a,4,33374.47,8343.6175,7127.82,26246.65,4.0,Moderate Utilization,High Cost,Standard
+7bde0c43-9a52-1c09-09ec-6d601f253542,6,37772.28,6295.38,15969.039999999999,21803.24,2.1844444444444444,High Utilization,High Cost,Elevated Utilization or Cost
+7c1c8f58-7e2d-12cd-bcdf-e5bd5b4afebc,125,87767.64,702.14112,71327.69,16439.949999999997,81.45861111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+7c2e1929-8a1a-939b-369b-b2a4bcb55595,19,27660.82,1455.8326315789473,21870.62,5790.2,5.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+7c90399e-695a-d60a-1345-1742346a300c,13,155361.75,11950.903846153846,140239.78,15121.970000000005,3.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+7c96fd5c-ae3d-308a-a9ee-948ab47860f9,184,54681.1,297.1798913043478,13761.8,40919.3,50.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+7d161e8a-faf5-361f-3d30-5a130df34dda,50,15423.78,308.4756,12403.779999999999,3020.0,83.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+7dc160d1-5a1f-e4ff-3fe0-d2692cd600c2,76,74326.24,977.9768421052632,594.8299999999999,73731.41,26.514722222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+7e02e5cb-07fe-af25-da5e-6b32b2340b4c,10,27578.52,2757.852,20794.079999999998,6784.4400000000005,4.549166666666666,High Utilization,High Cost,Elevated Utilization or Cost
+7ea6bcc8-754c-3186-a192-d7115497c7ec,29,59246.35,2042.9775862068966,255.66,58990.69,9.398888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+7f0dc5c3-f35c-df5b-8564-95aa38b575d6,83,625019.99,7530.3613253012045,352791.27,272228.72000000003,56.61833333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+7f3c281d-50ec-5728-d46c-db6f5956f168,16,19355.37,1209.710625,0.0,19355.37,10.066666666666666,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+7f7d9d31-10a6-1bcf-2091-2f7a18229ade,4,22470.370000000003,5617.592500000001,0.0,22470.370000000003,2.5,Moderate Utilization,Moderate Cost,Standard
+80012d6e-7932-90bd-6dff-d4ef75a1ccc3,22,61481.68,2794.621818181818,0.0,61481.68,11.63888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+80b118eb-6707-4908-ef04-e77742c6eaa2,1,278.58,278.58,169.65,108.92999999999998,0.25,Low Utilization,Low Cost,Standard
+8123d076-0886-9007-e956-d5864aa121a7,7,26943.57,3849.0814285714287,5903.79,21039.78,2.5994444444444444,High Utilization,High Cost,Elevated Utilization or Cost
+814d792a-34dc-914b-d260-fe697866957a,4,1371.61,342.9025,966.3700000000001,405.2399999999999,1.1094444444444445,Moderate Utilization,Low Cost,Standard
+814f74d5-6a86-0d84-915d-ea8696834809,37,29834.31,806.3327027027027,22683.2,7151.110000000001,59.8125,Very High Utilization,High Cost,Elevated Utilization or Cost
+817efce8-3d2a-48a1-6d79-8505d24df078,64,402049.48,6282.023125,319024.86,83024.62000000001,18.433888888888887,Very High Utilization,Very High Cost,High Risk / High Utilization
+820298f1-efb6-5c82-67c7-a4e6e7965493,8,60260.77,7532.59625,0.0,60260.77,2.7805555555555554,High Utilization,High Cost,Elevated Utilization or Cost
+823c6b40-9dbe-e463-310b-ea2b23b23b48,15,12606.78,840.452,9957.24,2649.54,3.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+8340c2ae-f210-e304-90b9-e33eddea77b5,4,867.3499999999999,216.83749999999998,0.0,867.3499999999999,1.0,Moderate Utilization,Low Cost,Standard
+83c110a9-19a4-2686-2783-bff4a5b79c96,21,403754.96,19226.426666666666,0.0,403754.96,5.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+83d1e9b6-facd-e50f-6efb-2bdf2bc80145,69,10246.02,148.4930434782609,5988.54,4257.4800000000005,17.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+84767053-d6e5-87a2-f0ff-5e6d05c0ab2b,7,984.91,140.70142857142858,433.98,550.93,1.75,High Utilization,Low Cost,Elevated Utilization or Cost
+84c0682f-dda5-35f3-4544-fb7678ca4df9,14,31862.35,2275.8821428571428,29622.63,2239.7199999999993,3.9386111111111113,Very High Utilization,High Cost,Elevated Utilization or Cost
+84c18563-b7cc-887b-23bd-ba8566a2b15a,10,22902.65,2290.2650000000003,0.0,22902.65,3.205,High Utilization,Moderate Cost,Elevated Utilization or Cost
+85b9044a-d232-ff24-308f-d04f505139c8,20,13388.09,669.4045,24.27,13363.82,11.150833333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+85fa4579-42ef-8482-fc18-3ad094a10de2,31,303736.78,9797.96064516129,75626.77,228110.01,7.889166666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+85fddafb-7c95-c2e6-c60a-20752ff0eb47,19,55261.82,2908.516842105263,0.0,55261.82,5.996666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+86023400-fc37-192e-2595-9912a765bf2e,29,51690.770000000004,1782.4403448275864,47712.82,3977.9500000000007,7.830555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+86342b67-9b17-8d78-68de-897e77b01385,18,3819.29,212.18277777777777,2441.58,1377.7099999999998,4.635833333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+864ba131-7eef-e964-f08d-fc22343b4185,18,46910.31,2606.128333333333,36924.39,9985.92,7.246388888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+866dec23-533f-f010-2812-378c0578c8d5,16,6920.02,432.50125,0.0,6920.02,10.39861111111111,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+86776df8-730c-c2af-850c-25339f0b1ed6,2,56210.5,28105.25,44904.4,11306.100000000002,0.5,Low Utilization,High Cost,Standard
+86e36715-1b85-289d-83d3-790a7bcf51bd,2,579.13,289.565,0.0,579.13,0.5,Low Utilization,Low Cost,Standard
+87374663-719e-5bff-d89e-6543b6d4e809,10,16881.06,1688.1060000000002,10796.609999999999,6084.45,2.823611111111111,High Utilization,Moderate Cost,Elevated Utilization or Cost
+8743c20d-1312-17ef-8eeb-17e7f2083061,27,304208.33,11266.975185185185,241973.96000000002,62234.36999999999,14.761388888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+8769c00c-54aa-4ebf-6aba-8cf91502e88b,18,2838.44,157.69111111111113,1694.68,1143.7600000000002,4.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+877fe19e-58ab-875f-e28f-44a8d99b3704,7,23853.899999999998,3407.7,18856.100000000002,4997.799999999998,3.254722222222222,High Utilization,Moderate Cost,Elevated Utilization or Cost
+878ed63c-cd3f-bf84-15f6-e8d0cf8022a4,11,3023.0,274.8181818181818,358.23,2664.77,4.338055555555556,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+885a2c8d-003f-788a-7096-274b8570c8d7,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+886b4027-9cd6-d8c8-9f04-d1ccd1023d59,5,31319.55,6263.91,898.11,30421.44,2.75,Moderate Utilization,High Cost,Elevated Utilization or Cost
+8885aba5-afce-9e3b-0c1d-a684a347b5fb,41,190264.93,4640.6080487804875,17945.86,172319.07,10954.809166666668,Very High Utilization,Very High Cost,High Risk / High Utilization
+88986fec-6364-262e-37d4-e20ceb511166,45,17757.73,394.61622222222223,12251.41,5506.32,106.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+88f5ad06-de02-0b16-98a4-8c5b4f581e88,26,31909.3,1227.2807692307692,23977.420000000002,7931.879999999999,30.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+890a07a6-385d-8691-c6f8-ad07f5b8e4b8,37,27790.309999999998,751.0894594594594,0.0,27790.309999999998,15.363611111111112,Very High Utilization,High Cost,Elevated Utilization or Cost
+89288edc-24f5-982d-83d9-a05e12d188a7,14,11089.58,792.1128571428571,1290.7,9798.880000000001,3.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+8947b128-12be-4a4a-5e08-6f60059a3341,8,39070.57,4883.82125,29641.02,9429.55,4.323333333333333,High Utilization,High Cost,Elevated Utilization or Cost
+895b5826-571e-0c37-c580-5453901ab7ec,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+895ed9b4-ded5-6817-9da2-fb2d1cb2edb1,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+89972856-786e-034e-415d-018438679ab0,4,706.32,176.58,437.04,269.28,1.0,Moderate Utilization,Low Cost,Standard
+899fe4f6-22a0-3a63-e58b-ee2d8d280df3,19,32032.3,1685.9105263157894,470.32000000000005,31561.98,5.995555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+8a4c3440-d18f-b5fb-6770-920eed368df2,16,9885.3,617.83125,7390.59,2494.7099999999996,4.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+8a5687ea-5c21-8e3c-ed0c-4414979865aa,6,20522.31,3420.385,7218.53,13303.78,2.4013888888888886,High Utilization,Moderate Cost,Elevated Utilization or Cost
+8a6defb8-8b23-dfc6-1c3b-d8a4f9c8f16d,18,22319.54,1239.9744444444445,19314.93,3004.6100000000006,5.914722222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+8a72615e-cd5a-c700-7bdc-7608cb4280dc,39,151527.19,3885.312564102564,4478.49,147048.7,209.55166666666668,Very High Utilization,Very High Cost,High Risk / High Utilization
+8add119f-45d9-5195-01c3-327bc1803838,15,14528.08,968.5386666666667,56.85,14471.23,9.947777777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+8af05866-2ac3-7e24-603e-057e3e36cee9,37,479080.60000000003,12948.124324324326,14789.0,464291.60000000003,12.27111111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+8af224c5-0b2a-50be-ed8b-10ca4c315aff,4,58486.07,14621.5175,39752.22,18733.85,1.9044444444444446,Moderate Utilization,High Cost,Standard
+8b072645-9aae-9166-11e4-45e0e6bf7618,13,223558.49,17196.80692307692,0.0,223558.49,288.49694444444447,Very High Utilization,Very High Cost,High Risk / High Utilization
+8b52237a-caae-9cd6-002b-5e3c343b1f00,16,33670.369999999995,2104.3981249999997,119.78,33550.59,5.4991666666666665,Very High Utilization,High Cost,Elevated Utilization or Cost
+8c7f48e0-ed63-8e5e-a7b1-f7f2e88f56b7,6,2150.76,358.46000000000004,1623.57,527.19,3.0,High Utilization,Low Cost,Elevated Utilization or Cost
+8c8b1ea1-917e-77ef-a82a-c024a11a4f12,27,180159.13,6672.560370370371,129798.14,50360.99,7.966388888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+8d1ee893-5f1b-bafc-9243-bc78df793343,10,24369.629999999997,2436.9629999999997,19172.34,5197.289999999999,28.15,High Utilization,High Cost,Elevated Utilization or Cost
+8d57a1ad-a587-2cff-3bc9-fa5a58289240,32,78168.1,2442.753125,30728.010000000002,47440.090000000004,15.905833333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+8d78a9e7-f3ed-39b6-c861-7930e4206d79,11,44170.560000000005,4015.505454545455,33675.060000000005,10495.5,3.4980555555555557,Very High Utilization,High Cost,Elevated Utilization or Cost
+8dc7837e-65d3-a728-7fd6-cb1281847cb7,6,17297.51,2882.918333333333,0.0,17297.51,2.379722222222222,High Utilization,Moderate Cost,Elevated Utilization or Cost
+8e6b0a8e-a11d-c938-9bf8-499d8378db12,31,18765.5,605.3387096774194,13918.02,4847.4800000000005,14.783055555555556,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+8e8248f7-0d29-2206-a31e-ad831822f743,12,82594.66,6882.888333333333,0.0,82594.66,29.2725,Very High Utilization,Very High Cost,High Risk / High Utilization
+8e9650d1-788a-78f9-4a28-d08f7f95354a,2,421.15999999999997,210.57999999999998,272.92,148.23999999999998,0.5,Low Utilization,Low Cost,Standard
+8eefc277-a191-d1cc-28eb-936e4ccef139,3,9012.42,3004.14,7111.35,1901.0700000000002,1.5,Moderate Utilization,Moderate Cost,Standard
+8f4169a8-d4e9-5a4d-aa10-137af60e300e,6,1057.88,176.31333333333336,0.0,1057.88,1.5,High Utilization,Low Cost,Elevated Utilization or Cost
+8fe3348d-477f-541e-96df-bbe5b552104f,23,241542.16999999998,10501.833478260869,194022.71,47519.46,54.980555555555554,Very High Utilization,Very High Cost,High Risk / High Utilization
+905d0433-9ca3-4883-cbd4-3df36fd5f1c6,132,1024237.46,7759.374696969697,397776.45,626461.01,1539.3677777777777,Very High Utilization,Very High Cost,High Risk / High Utilization
+909f9c85-85f2-3341-9d7f-4c35ef99f78e,5,1385.81,277.162,920.9399999999999,464.87,2.5,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+9107aa45-d481-a887-df1f-b1e6f66c8181,28,128995.54,4606.983571428571,103193.56999999999,25801.97,10.312222222222221,Very High Utilization,Very High Cost,High Risk / High Utilization
+91084719-3b53-6162-0a62-8079fd3f1031,49,666884.7,13609.891836734692,0.0,666884.7,15.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+919a019a-e169-73f2-28d8-106320e7c8dc,7,37900.27,5414.324285714285,8385.47,29514.8,2.4875,High Utilization,High Cost,Elevated Utilization or Cost
+91d33e82-3b1b-9405-665c-a4f9bd6051a8,24,11490.43,478.7679166666667,1724.81,9765.62,6.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+91eb9270-299b-8340-bfaa-f81b62d520d9,2,557.16,278.58,0.0,557.16,0.5,Low Utilization,Low Cost,Standard
+92390d09-7f82-3be6-c334-c4ecf6b5b0d1,23,29857.39,1298.1473913043478,23402.97,6454.42,13.089444444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+923ed3c8-5f84-fe2f-5400-358040e63248,32,19384.41,605.7628125,8492.17,10892.24,8.157222222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9279705f-2e5c-2792-ae20-7a77b5b04015,67,598712.31,8936.004626865673,350771.01,247941.30000000002,25.683611111111112,Very High Utilization,Very High Cost,High Risk / High Utilization
+929dc38f-b15f-0397-ab0c-77b0190f2632,37,201217.77000000002,5438.318108108108,121016.98,80200.79000000001,43.54888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+92b81954-19f4-79cf-11e5-cca9e471a524,4,570.32,142.58,328.24,242.08000000000004,1.0,Moderate Utilization,Low Cost,Standard
+9377400d-3ac8-3bee-44de-4517fc236f03,52,440978.71,8480.359807692308,132655.61,308323.1,23.697777777777777,Very High Utilization,Very High Cost,High Risk / High Utilization
+93b6971a-86b0-5d2b-9831-8d11a2295988,3,914.67,304.89,0.0,914.67,2.0619444444444444,Moderate Utilization,Low Cost,Standard
+93ccd840-7437-b0ab-ed34-3b55a83bc976,22,80193.15,3645.1431818181813,74571.63,5621.519999999996,13.13638888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+93d5095e-1179-cb73-87f9-131cbcf418a7,12,5910.900000000001,492.57500000000005,0.0,5910.900000000001,9.106111111111112,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9417aa86-315d-a288-7ef5-80d70ad8d5fb,35,256755.82,7335.880571428572,204149.85,52605.97000000001,9.922777777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+943edc7c-ae38-1500-8545-69e9fbdac442,2,251.99,125.995,0.0,251.99,1.25,Low Utilization,Low Cost,Standard
+9496fd63-511e-37e4-a22d-15c52a8bebd0,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+965fd42a-8f09-2bf6-d047-c6039e390c5e,5,17226.17,3445.2339999999995,0.0,17226.17,1.6708333333333334,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+96badead-f6a4-2a0b-6fa6-092a83e68c2f,21,43514.33,2072.1109523809523,0.0,43514.33,8.711388888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+96ddc459-c0e2-a963-d3b0-be051ee15819,24,58229.59,2426.2329166666664,270.71,57958.880000000005,14.380277777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+96e27075-6c49-69e3-a2f1-9548d4f25e6b,2,557.16,278.58,415.3,141.85999999999996,0.5,Low Utilization,Low Cost,Standard
+96fce27e-2abf-c304-9a7c-c8e9dc9b6f67,27,257095.52000000002,9522.056296296298,0.0,257095.52000000002,12.37138888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+975c7d5a-62c9-5d98-4dbb-6ce8f50b7d0d,6,32781.479999999996,5463.579999999999,18963.66,13817.819999999998,3.1213888888888888,High Utilization,High Cost,Elevated Utilization or Cost
+975f5cd9-bcfa-ef48-6fa2-9e0ca870f177,5,16653.29,3330.6580000000004,13128.2,3525.0900000000006,3.6141666666666667,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+97c4cfee-e860-e908-1797-8da4dc241ec4,22,71861.0,3266.409090909091,56467.1,15393.900000000001,319.9266666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+97f1818a-c70b-db16-3418-2c3c89196401,51,412082.54,8080.049803921568,360765.96,51316.58,14.94,Very High Utilization,Very High Cost,High Risk / High Utilization
+9816a4e0-01d6-29b7-5e94-b1fa1d2a77b3,12,60772.28999999999,5064.357499999999,48085.73,12686.559999999998,5.716666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+986ac052-c328-f97f-59a0-7ce571f4ce20,22,4742.16,215.55272727272725,3046.9900000000002,1695.1699999999998,7.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+98ecd9c7-d248-3a23-0486-5e9cf247cdff,28,59097.97,2110.6417857142856,54188.64,4909.329999999999,8.3625,Very High Utilization,High Cost,Elevated Utilization or Cost
+98f271af-33d1-4c70-7020-50d0026b0766,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+98fd0864-1d9e-2a75-4c89-f09e8dbfa195,26,36057.950000000004,1386.844230769231,0.0,36057.950000000004,13.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+9928fc0c-85b6-319d-f9cb-ab465c34bcdf,13,9777.06,752.0815384615385,7386.02,2391.04,3.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+99c69605-c30c-1a8e-05f8-70ce9d849103,17,107470.34,6321.784705882353,11088.359999999999,96381.98,9.545,Very High Utilization,Very High Cost,High Risk / High Utilization
+9a2538bc-9b43-6135-ed36-34c496cc0f32,3,469.44,156.48,311.54,157.89999999999998,24.5,Moderate Utilization,Low Cost,Standard
+9a5b8764-35e9-5f79-22e5-d0602f339e1c,16,27439.47,1714.966875,21403.670000000002,6035.8,4.58,Very High Utilization,High Cost,Elevated Utilization or Cost
+9a942ecb-92a7-4bd2-444c-f99ceebe25d0,1,151.59,151.59,84.94,66.65,1.0,Low Utilization,Low Cost,Standard
+9a94c800-6484-afe8-bd58-0c1b450ccf9f,35,4650.38,132.868,2568.24,2082.14,58.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9ab5c104-67a5-e236-184c-11eb28d0b61e,20,10206.53,510.3265,7774.04,2432.4900000000002,28.905,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9b3d58ee-569f-a72d-cbed-dde6610a9aad,7,13049.38,1864.1971428571428,1444.25,11605.13,3.283333333333333,High Utilization,Moderate Cost,Elevated Utilization or Cost
+9b639026-ccab-f2fb-f875-ba81d16c1220,7,40933.740000000005,5847.677142857144,32361.920000000002,8571.82,3.25,High Utilization,High Cost,Elevated Utilization or Cost
+9b6a7d3e-3cf2-3c4a-029e-bc7f3d15ca20,20,8920.77,446.0385,6439.3,2481.47,11.4075,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9b7cfa36-1dda-ce55-7c2a-a9a332a5777b,1,19821.02,19821.02,15792.82,4028.2000000000007,1.0,Low Utilization,Moderate Cost,Standard
+9b874b88-a7a3-a286-ef29-ef9850d40ee3,1,159.9,159.9,0.0,159.9,0.25,Low Utilization,Low Cost,Standard
+9b8ae606-5059-b3a6-19c7-c812901898bb,364,187907.26,516.2287362637363,133760.63,54146.630000000005,551.4666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+9b90e343-201b-b66c-15ed-31e4f0f18030,23,45745.229999999996,1988.9230434782608,35660.43,10084.800000000001,407.70166666666665,Very High Utilization,High Cost,Elevated Utilization or Cost
+9bb258bc-abcb-1473-22dd-be65c1c5ad23,1,10599.12,10599.12,8447.3,2151.8200000000015,0.25,Low Utilization,Moderate Cost,Standard
+9bbce184-a96b-f83f-ba38-d8785dfdcf30,1,573.98,573.98,0.0,573.98,0.25,Low Utilization,Low Cost,Standard
+9bc313e0-1589-df7a-d765-51ca17ad7add,4,728.26,182.065,0.0,728.26,1.0,Moderate Utilization,Low Cost,Standard
+9bd29a67-4b5a-01b4-66b0-c0ebdb90ddcd,2,421.15999999999997,210.57999999999998,0.0,421.15999999999997,0.5,Low Utilization,Low Cost,Standard
+9bf10773-1a6a-cec1-df97-711048d95e25,5,25497.92,5099.584,7216.87,18281.05,2.136111111111111,Moderate Utilization,High Cost,Elevated Utilization or Cost
+9c616fc0-00ea-249f-d073-1f3bb15d41fa,13,52748.66,4057.589230769231,32907.06,19841.6,3.9908333333333332,Very High Utilization,High Cost,Elevated Utilization or Cost
+9c6aefb0-95b9-2c2c-7755-19f8bd594d2e,7,30061.639999999996,4294.5199999999995,23809.829999999998,6251.8099999999995,3.1983333333333333,High Utilization,High Cost,Elevated Utilization or Cost
+9d62b12c-091d-cc9b-d609-5c90223bc963,4,1210.52,302.63,0.0,1210.52,1.75,Moderate Utilization,Low Cost,Standard
+9db0dbf8-264b-e2c2-e729-38b54c302b26,18,102282.11,5682.339444444445,808.9000000000001,101473.21,33.32222222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+9e3bbe3c-618b-bca0-16dc-aa4eb3c7aa0e,19,17653.15,929.1131578947369,13232.27,4420.88,4.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9eb99e6f-21e9-c2dc-835f-13c6a53f9a16,76,515240.44,6779.4794736842105,485089.33,30151.11,74.28972222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+9f021233-d200-606b-2bb3-3b8761424ac2,22,65186.159999999996,2963.0072727272727,455.94,64730.22,7.295277777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+9f064bb4-42f4-fbf6-34ea-2b4cefd8023b,4,17199.86,4299.965,0.0,17199.86,2.749722222222222,Moderate Utilization,Moderate Cost,Standard
+9f51b7a3-7ce7-9e9f-113d-c021cac67c38,1,573.98,573.98,450.28,123.70000000000005,0.25,Low Utilization,Low Cost,Standard
+9f6ca4ff-8cbe-eb2e-0eb9-3813883ac0b8,34,75017.29000000001,2206.3908823529414,58741.39,16275.9,13.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+9f97cbd6-59a0-3d07-c6ff-14e3b4b4fb4b,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+9fd941d1-a6a1-a223-c359-757c37d5eae6,39,311645.4,7990.907692307693,247789.47,63855.93000000001,248.67805555555555,Very High Utilization,Very High Cost,High Risk / High Utilization
+9fe84837-0719-ab5e-c410-7c91a186caf6,11,22791.58,2071.961818181818,0.0,22791.58,3.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+9ff889c1-9f35-8e07-db4f-bb361dceb988,11,84671.76,7697.432727272727,0.0,84671.76,6.109444444444445,Very High Utilization,Very High Cost,High Risk / High Utilization
+a00b9627-98b5-1f4c-b014-5793702cc75e,11,84290.93000000001,7662.811818181819,20028.39,64262.54,4.306666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+a093d314-f2b8-be7e-e20b-1a9229aedd7c,7,44340.57,6334.367142857142,8994.9,35345.67,2.5908333333333333,High Utilization,High Cost,Elevated Utilization or Cost
+a0bd2490-4ca6-1205-c7e0-a2d7ae2c2b49,22,17011.19,773.235909090909,0.0,17011.19,5.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+a0d9ed6a-c0c7-e7d8-e31a-866728978f1f,13,37465.630000000005,2881.971538461539,34598.93,2866.700000000002,4.7027777777777775,Very High Utilization,High Cost,Elevated Utilization or Cost
+a12541db-140e-8189-070c-dc9f4815f40f,11,29758.95,2705.359090909091,10684.86,19074.09,10708.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+a174097b-11ea-96c5-97ce-706e648954d6,64,139714.33,2183.03640625,0.0,139714.33,17.31888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+a1a14aea-af43-1eec-bb7b-e7ca6ebc569b,43,93164.7,2166.6209302325583,39.17,93125.53,35.45916666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+a24c03cc-0760-bdaa-659b-ec1f5c3bf614,25,139678.92,5587.156800000001,5000.46,134678.46,12.9525,Very High Utilization,Very High Cost,High Risk / High Utilization
+a2b011b1-ca0a-69fa-6906-6c06ad18376a,37,107338.35,2901.036486486487,84398.59999999999,22939.750000000004,19.65361111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+a300a304-9b4c-c4c8-696f-376bb78b3663,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+a31f5105-476f-b129-fb9a-514cf45a34ac,232,110636.64,476.88206896551725,72679.28,37957.36,164.3011111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+a3e1bec5-f777-83cc-d0b9-a7259063617f,17,15313.230000000001,900.7782352941177,11706.51,3606.72,4.605277777777777,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+a40ec84a-0f89-f0e7-dfe1-0a3ad3e0f1f6,2,693.16,346.58,490.52000000000004,202.63999999999993,0.5,Low Utilization,Low Cost,Standard
+a4a2651e-827a-93b4-c6ad-2353e962870e,1,221.55,221.55,0.0,221.55,0.25,Low Utilization,Low Cost,Standard
+a4f6f1be-369c-7ef8-8258-bddecd3af1b4,45,337484.43,7499.6539999999995,249017.77,88466.66,41.64277777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+a59dbbd5-98e9-d341-9ed2-c01010910165,1,154.83,154.83,0.0,154.83,1.0,Low Utilization,Low Cost,Standard
+a5e0f9bb-e087-fbbf-6ae8-3ed8ccb67918,6,4889.68,814.9466666666667,0.0,4889.68,1.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+a5e48272-0527-5afe-cba0-ef2e3ab31e66,1,550.58,550.58,0.0,550.58,0.25,Low Utilization,Low Cost,Standard
+a611d4f8-d8de-92cc-590b-28be71434d0d,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+a650b006-e5f9-805f-6135-4badabff3287,5,12117.68,2423.536,9500.52,2617.16,2.916666666666667,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+a6997da1-705f-96f8-909b-c421ad97f928,1,151.13,151.13,0.0,151.13,1.0,Low Utilization,Low Cost,Standard
+a6a5b35e-7f94-770c-9438-ea84c340ce00,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+a6d6f3e9-6fe5-26f7-3f67-39a5f06c1743,43,14431.579999999998,335.61813953488365,10039.17,4392.409999999999,14.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+a6dc36b3-0ac3-48b1-3088-707e8871a914,76,34716.26,456.79289473684213,20377.85,14338.41,24.27111111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+a6edb3a5-9e0c-380d-b42e-6b98720ee617,16,26118.73,1632.420625,10510.38,15608.35,4.6025,Very High Utilization,High Cost,Elevated Utilization or Cost
+a71dfd96-20a5-1382-b747-7ece9bf77297,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+a733bbc1-cbdf-992f-f1b7-bd230028fc4f,142,3014121.02,21226.204366197184,0.0,3014121.02,40.474444444444444,Very High Utilization,Very High Cost,High Risk / High Utilization
+a7426d06-9c0a-f05b-c9da-63eefb5c3bd3,32,277467.41,8670.8565625,998.24,276469.17,183.5727777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+a74f1065-3d40-3806-48b1-53d1a8ec72a0,5,26715.48,5343.096,24774.75,1940.729999999998,5.0,Moderate Utilization,High Cost,Elevated Utilization or Cost
+a7c2465f-ff3b-6b6e-60dc-888a8f281439,68,35083.71,515.9369117647059,22452.03,12631.68,49.29111111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+a7e9f7e3-756f-a616-0ca2-e7386e3b1719,2,421.15999999999997,210.57999999999998,0.0,421.15999999999997,0.5,Low Utilization,Low Cost,Standard
+a80b1160-93f0-db7e-9f23-04ea6fdddfaf,59,636438.7,10787.09661016949,0.0,636438.7,1273.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+a85e7f90-7602-753f-21a2-9198eb8fef89,1,39390.47,39390.47,31480.38,7910.09,0.25,Low Utilization,High Cost,Standard
+a8cac900-0913-c0d6-e0b9-b5d41976006b,2,557.16,278.58,381.72,175.43999999999994,0.5,Low Utilization,Low Cost,Standard
+a8ceba15-ef47-da92-253d-185853ff6c34,2,421.15999999999997,210.57999999999998,0.0,421.15999999999997,0.5,Low Utilization,Low Cost,Standard
+a8d4b669-31b0-dbf8-74b1-0096127d91d3,88,29608.99,336.46579545454546,14836.22,14772.77,54.78611111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+a8f1e6a4-9c0b-68ab-35a8-c511661d51d8,6,2188.13,364.68833333333333,0.0,2188.13,1.5,High Utilization,Low Cost,Elevated Utilization or Cost
+a920948a-7a64-e642-44b8-605ebcef09b1,16,22283.61,1392.725625,17628.54,4655.069999999999,4.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+a94a4742-edeb-5e5d-07a8-89f94aca722c,13,4480.26,344.6353846153846,3160.77,1319.49,3.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+a950f10e-c0e0-5b7f-14d7-5e750044ccec,4,933.73,233.4325,512.37,421.36,1.75,Moderate Utilization,Low Cost,Standard
+a96d5031-46d5-e3f6-ec67-81f8edd48aa8,99,157790.96,1593.8480808080808,9196.7,148594.26,2390.9125,Very High Utilization,Very High Cost,High Risk / High Utilization
+a9af1131-7f48-abd9-7d12-69fe4eb769a2,5,15822.839999999998,3164.5679999999998,10554.22,5268.62,2.416666666666667,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+a9b52316-d4dc-285b-26c0-77e93ff6c8f3,30,128335.73999999999,4277.857999999999,0.0,128335.73999999999,7.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+aabf3963-198e-6835-dce9-c1be2764097b,18,4752.62,264.03444444444443,3157.4500000000003,1595.1699999999998,5.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+ab3fd21f-2823-04a5-a4ce-5311023199e1,32,5242.56,163.83,3169.92,2072.6400000000003,8.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+abda5895-770d-4851-b0dc-d83478638a8c,5,9232.679999999998,1846.5359999999996,8471.9,760.7799999999994,3.0175,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+ac02d86d-bf74-382d-1718-2b24132d5ab1,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+ac08cec0-b9dc-2f87-78af-04d0c603427b,25,90228.46,3609.1384000000003,32524.97,57703.490000000005,14.13111111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+ac2e29a3-af9c-4bcd-1b34-b11d145b220a,2,421.15999999999997,210.57999999999998,272.92,148.23999999999998,0.5,Low Utilization,Low Cost,Standard
+ac37d304-7eaf-6e1e-9267-0043892b88f1,16,61318.12,3832.3825,57330.3,3987.8200000000015,6.854166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+aca97085-7ada-bd68-c4c4-662f84229192,61,51829.68,849.6668852459017,39448.84,12380.840000000002,498.0077777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+ad0b7dac-2dfe-dc89-5bdd-ad24e5dca41c,18,7409.09,411.61611111111114,0.0,7409.09,12.178611111111111,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+adc39fae-f5c1-a541-f6b6-32cd5ecde637,4,33018.41,8254.6025,21388.56,11629.849999999999,1.75,Moderate Utilization,High Cost,Standard
+ae09e4d4-cf26-29db-fe4d-8f4fa2738e69,5,7858.379999999999,1571.676,7180.4400000000005,677.9399999999993,1.25,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+ae58c431-5ed8-6e3b-7a36-3aba32dafd79,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+af7ca880-2707-c0de-3ccd-ae9319f9e6f3,30,30676.73,1022.5576666666667,22785.07,7891.660000000001,37.6375,Very High Utilization,High Cost,Elevated Utilization or Cost
+afd5531f-cd97-82da-a305-ebe9a0847298,2,10227.88,5113.94,6819.25,3408.63,24.25,Low Utilization,Moderate Cost,Standard
+affa7bf1-f4fc-d3f7-747c-db8f32d105cf,1,278.58,278.58,169.65,108.92999999999998,0.25,Low Utilization,Low Cost,Standard
+b026393d-260d-38be-f572-daddd70d16ce,6,1042.18,173.6966666666667,0.0,1042.18,1.5,High Utilization,Low Cost,Elevated Utilization or Cost
+b02dee58-c356-b1d9-5116-e719fa43e484,12,1958.14,163.17833333333334,249.06,1709.0800000000002,3.75,Very High Utilization,Low Cost,Elevated Utilization or Cost
+b0631dd8-4549-afe5-0c03-3adbcde37e8c,32,210415.37,6575.4803125,148108.86000000002,62306.509999999995,10.081944444444444,Very High Utilization,Very High Cost,High Risk / High Utilization
+b0c95bfd-adc4-8910-a75d-e208879c975d,96,580593.75,6047.8515625,457700.11,122893.64000000001,36.089444444444446,Very High Utilization,Very High Cost,High Risk / High Utilization
+b0d73413-9b99-241f-dea2-f82f4e63cf32,7,52897.25,7556.75,42084.5,10812.749999999993,2.1155555555555554,High Utilization,High Cost,Elevated Utilization or Cost
+b1718eb9-d687-b7f6-d6a3-ed99fb61d3f8,39,441564.09,11322.156153846154,12552.48,429011.61,11.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+b17ffd11-c8c2-28aa-0c26-8ddc6bc5957d,246,109461.36,444.96487804878046,77660.91,31800.450000000004,298.71666666666664,Very High Utilization,Very High Cost,High Risk / High Utilization
+b190fd1c-295d-b2de-7844-f1836f081dc0,18,140058.83000000002,7781.046111111112,107985.02,32073.809999999998,5.528333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+b1c5cbc4-4bf4-ef9b-1507-8a87d3c8f10d,42,44703.75,1064.375,34198.01,10505.740000000002,486.8183333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+b266d042-1a7c-4092-c0bf-61ab38367cd7,22,107611.64,4891.438181818182,0.0,107611.64,8.0925,Very High Utilization,Very High Cost,High Risk / High Utilization
+b2b5f8d2-9ba8-f517-5ce5-3f246a0eee52,4,42238.91,10559.7275,33595.939999999995,8642.970000000003,2.5,Moderate Utilization,High Cost,Standard
+b3083332-bec7-215e-ae25-fcb2ee8d47e1,5,25407.98,5081.596,9557.26,15850.720000000001,1.4986111111111111,Moderate Utilization,High Cost,Elevated Utilization or Cost
+b3089b6e-7e37-1385-3bb9-566694b36c1b,1,7885.81,7885.81,5855.81,2030.0,1.0,Low Utilization,Moderate Cost,Standard
+b39fb52a-284f-6c91-1b8b-690b2a2373a5,17,248417.25,14612.779411764706,0.0,248417.25,4.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+b4671e80-7e87-9260-ca31-6a9397d465d1,296,65245.840000000004,220.42513513513515,40333.2,24912.640000000003,88.96666666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+b4ab9ab3-f52a-751e-a990-3bd5654d5870,383,124858.48,326.00125326370755,41136.64,83721.84,155.05,Very High Utilization,Very High Cost,High Risk / High Utilization
+b4e889a7-1cee-7e64-4372-955d05d73196,8,1378.05,172.25625,750.4300000000001,627.6199999999999,2.0,High Utilization,Low Cost,Elevated Utilization or Cost
+b4ee06c2-e92b-e8e5-faf0-06d27a030aa8,21,49868.61,2374.6957142857145,39113.3,10755.31,12.640555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+b567e856-a258-ce72-6805-35a0d7c8c3fe,10,1719.87,171.987,7.91,1711.96,2.6194444444444445,High Utilization,Low Cost,Elevated Utilization or Cost
+b57e24a2-2e48-12f9-3293-c88745cfdc3f,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+b5989ff6-65d3-3ec8-8215-8c13f84e4251,14,6678.6900000000005,477.04928571428576,4834.85,1843.8400000000001,9.545555555555556,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+b5d13571-5fde-5eaa-4313-7f079d92e6aa,3,15882.57,5294.19,12606.48,3276.0899999999997,2.087222222222222,Moderate Utilization,Moderate Cost,Standard
+b6633ebf-174a-d0ed-d917-d8289127b1be,19,18465.829999999998,971.8857894736841,14124.720000000001,4341.11,36.65222222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+b6cb264f-2268-2b6c-b2ff-a395c59227b9,17,24315.03,1430.2958823529411,18903.260000000002,5411.77,5.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+b7030cea-cd53-4db0-55d0-9b30750f2192,13,46171.09,3551.6223076923075,29375.75,16795.34,5.982222222222222,Very High Utilization,High Cost,Elevated Utilization or Cost
+b75ba423-6f0a-49ac-1c45-3a7a240eb54a,36,20389.899999999998,566.3861111111111,7914.47,12475.43,10.975833333333334,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+b773d988-d066-7581-8d75-21fb1858d62d,15,37682.74,2512.1826666666666,4957.93,32724.809999999998,4.966666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+b7f1666b-b956-5be0-1930-5680e566d886,16,39648.630000000005,2478.0393750000003,31091.749999999996,8556.880000000001,5.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+b82c64b8-bb33-fb3a-e9dc-cb2e22137f43,17,25277.149999999998,1486.891176470588,19642.95,5634.200000000001,4.576388888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+b84b1407-5d97-aaa2-05a3-07759963e615,9,28904.020000000004,3211.557777777778,0.0,28904.020000000004,3.2008333333333336,High Utilization,High Cost,Elevated Utilization or Cost
+b872afc6-7174-ffe8-66d7-a2882f98c66f,5,670.27,134.054,376.2,294.07000000000005,4.25,Moderate Utilization,Low Cost,Elevated Utilization or Cost
+b8a166f7-6866-0abc-2499-b63df9fc6623,2,852.56,426.28,618.04,234.51999999999998,0.5,Low Utilization,Low Cost,Standard
+b8a9622a-c154-1fda-dd3f-f28062d11527,15,52515.75,3501.05,0.0,52515.75,29.754444444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+b8b74dd9-cda7-ef0c-fa41-11370e3e1c71,9,35084.26,3898.251111111111,53.39,35030.87,27.080277777777777,High Utilization,High Cost,Elevated Utilization or Cost
+b8e39f41-bde3-70ce-4ebf-01b1e13bbb53,38,5817.12,153.0821052631579,952.44,4864.68,15.116666666666667,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+b8f2c8b3-01fd-540b-ac25-c59713ac8be1,53,132788.38999999998,2505.441320754717,57643.82,75144.56999999999,14.765277777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+b9516761-8142-21ea-7606-90e6379b6b3b,5,18310.79,3662.1580000000004,152.69,18158.100000000002,2.463611111111111,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+ba4bf7b5-3abd-0a13-1886-c265251ff7d3,2,693.1600000000001,346.58000000000004,544.5,148.66000000000003,0.5,Low Utilization,Low Cost,Standard
+ba92a12a-97e2-59d1-3b8f-93767b92707b,2,7278.8,3639.4,0.0,7278.8,0.5,Low Utilization,Moderate Cost,Standard
+baa39410-c7b5-2f3a-76e9-8cb74f1fff82,21,219502.77,10452.512857142856,24.27,219478.5,5.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+bb734572-25d6-0570-d009-61db909b44da,24,57917.92,2413.2466666666664,45462.2,12455.720000000003,15.460833333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+bb7d18c9-0765-63d5-f8b0-1199023c5e76,1,29375.02,29375.02,23468.02,5907.0,0.25,Low Utilization,High Cost,Standard
+bb83e0bb-faa4-a1f8-e7b4-ca32347e2ca2,2,1147.96,573.98,854.36,293.6,0.5,Low Utilization,Low Cost,Standard
+bb9e2b36-bb5f-eda2-f1ae-f2c74a225272,33,112474.14,3408.307272727273,9167.27,103306.87,9.004166666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+bc00349c-53a2-0851-77ab-60164bec8202,30,85420.63,2847.3543333333337,67351.81999999999,18068.81,340.7077777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+bc4bc1c7-5887-80a6-383b-16dd61054474,45,379487.4,8433.053333333333,0.0,379487.4,15.456388888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+bc9d59c3-0a30-6e3b-f47d-022e4f03c8de,38,541444.44,14248.53789473684,430040.81,111403.63,675.8766666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+bcae4aac-8473-01c4-8ce9-ac5245674dbb,9,4100.4400000000005,455.6044444444445,2973.65,1126.7900000000002,26.0,High Utilization,Moderate Cost,Elevated Utilization or Cost
+bce69c8f-e46e-093f-f238-4e190649a1cb,34,27681.829999999998,814.1714705882353,116.11,27565.72,483.55944444444447,Very High Utilization,High Cost,Elevated Utilization or Cost
+bd06b837-73f9-36df-27ca-1537addad371,3,1093.56,364.52,810.88,282.68,0.75,Moderate Utilization,Low Cost,Standard
+bd95a12b-3952-18b6-05c7-a63359196ef6,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+bdc8c851-5ad5-fbec-5a31-f91575c1b73b,5,11475.91,2295.182,0.0,11475.91,2.75,Moderate Utilization,Moderate Cost,Elevated Utilization or Cost
+bdf4f848-3365-b0bf-e179-4bb1ba9e86f3,14,9976.89,712.635,7851.52,2125.37,3.611666666666667,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+be46e222-cfa4-3658-5fdd-cd57faad3ff4,6,7579.65,1263.2749999999999,5851.860000000001,1727.7899999999993,2.25,High Utilization,Moderate Cost,Elevated Utilization or Cost
+be66cdbe-0379-ab61-5cd4-13c45362895b,32,71806.08,2243.94,56356.83,15449.25,201.02583333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+be90039b-4cb5-a969-9b98-23e89e42f421,6,5386.49,897.7483333333333,0.0,5386.49,1.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+becb15c3-a135-8fb2-ea09-583043922a3a,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+bfb92693-49e7-7752-7a50-13d9fd9d3302,32,14878.98,464.968125,11192.0,3686.9799999999996,8.766666666666666,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+bfbb45de-c406-ad1c-ea40-ecf54e76337f,22,38731.65,1760.5295454545455,30090.48,8641.17,9.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+bfd88f6b-3a17-789b-d168-089c6ada0d16,22,20417.14,928.0518181818181,838.25,19578.89,6.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+bff05694-377c-4ee3-63af-131a07997d94,19,24954.9,1313.4157894736843,19249.57,5705.33,5.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+bffc8c86-2d27-c630-83d3-a05f314aa7af,2,428.09,214.045,0.0,428.09,1.25,Low Utilization,Low Cost,Standard
+c06513da-7f35-b4eb-5bab-28c87ff97a10,180,70041.39,389.1188333333333,0.0,70041.39,222.56416666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+c0bf47bb-348e-11ea-0e8c-2d3b39882c2b,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+c0ce7000-bcff-c39c-705f-a81a147b3dfe,24,84215.81,3508.992083333333,39451.99,44763.82000000001,9.293333333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+c0f9a025-ca5b-27ad-979c-d80f374da0d1,15,114875.86,7658.390666666667,91528.35,23347.510000000006,28.572222222222223,Very High Utilization,Very High Cost,High Risk / High Utilization
+c17a27e0-0045-11df-4fe0-6520a7bebe0b,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+c1999cc3-345e-3ea1-d7b6-9d30cf0da842,13,94632.44,7279.418461538462,75060.69,19571.750000000004,5.295277777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+c1ac6ea2-b7a6-8bbb-2b2d-aaf5c118e0c6,61,36861.46,604.2862295081967,1953.86,34907.6,17.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+c1ddd73b-2af1-19ee-40f3-50048992a999,13,18524.37,1424.9515384615383,13721.39,4802.98,3.6277777777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+c249fd8d-38fa-e836-dc53-f04364e988e9,19,28334.09,1491.2678947368422,21998.489999999998,6335.599999999999,5.5,Very High Utilization,High Cost,Elevated Utilization or Cost
+c2d53b0f-f011-97fa-d397-ece379b685fd,49,43330.14,884.2885714285715,4870.96,38459.18,86.49805555555555,Very High Utilization,High Cost,Elevated Utilization or Cost
+c32a972b-e26e-7ee3-5f55-d4209f53b4a8,9,8009.17,889.9077777777778,4331.139999999999,3678.03,2.25,High Utilization,Moderate Cost,Elevated Utilization or Cost
+c383e35a-0b12-9349-1009-4c3269b3c424,23,50536.38,2197.233913043478,39693.1,10843.28,101.06611111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+c38b3acf-8a73-ade7-3d36-77ee50e98812,3,642.71,214.23666666666668,0.0,642.71,0.75,Moderate Utilization,Low Cost,Standard
+c433d427-f13e-7a0a-0568-6bf825b74cd1,6,59443.48,9907.246666666668,10329.689999999999,49113.79,2.4050000000000002,High Utilization,High Cost,Elevated Utilization or Cost
+c5075aeb-d3ca-189b-d687-5379e7319895,6,1634.6,272.43333333333334,0.0,1634.6,3.1333333333333333,High Utilization,Low Cost,Elevated Utilization or Cost
+c53839c6-8871-a6ff-df1d-9e3d89c4d000,19,49298.23,2594.6436842105263,20314.11,28984.120000000003,10.112222222222222,Very High Utilization,High Cost,Elevated Utilization or Cost
+c5d38e3b-1e63-7f3d-ffdc-5b9edfc580af,9,38248.310000000005,4249.812222222223,28732.04,9516.270000000002,4.9783333333333335,High Utilization,High Cost,Elevated Utilization or Cost
+c63b52eb-5cf9-82da-da5d-ad2c5029bb88,18,12034.689999999999,668.5938888888888,9014.869999999999,3019.82,28.429166666666667,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+c671765d-c0e8-1e05-ea0f-891eca11ccf8,15,15221.92,1014.7946666666667,5051.92,10170.0,3.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+c6ab680e-508c-8eb5-3065-e95cc9aa6612,15,39303.01,2620.2006666666666,16376.42,22926.589999999997,4.7572222222222225,Very High Utilization,High Cost,Elevated Utilization or Cost
+c6b2ae50-d8d6-014f-bfff-27afbeb2e1e8,32,24770.31,774.0721875,19112.15,5658.16,8.895,Very High Utilization,High Cost,Elevated Utilization or Cost
+c6e38dde-3d7b-da88-92f8-8e98bf4d58ca,23,195724.72999999998,8509.770869565216,2207.06,193517.66999999998,273.5366666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+c7599ac8-488a-6bb0-d234-462c4a67390d,40,6950.6,173.76500000000001,4280.32,2670.28,10.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+c7c160d0-9f14-c10b-9767-d42551ab308b,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+c7c4cb4f-caf1-65f1-91d1-971baf8e9aa5,33,12771.25,387.00757575757575,19.16,12752.09,14.995277777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+c7d58bd4-3674-2399-35b7-4d258f515440,2,285.16,142.58,80.9,204.26000000000002,0.5,Low Utilization,Low Cost,Standard
+c82a8390-0ffd-9808-0834-30f484c8be6d,21,9223.4,439.2095238095238,0.0,9223.4,12.586388888888889,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+c83e8f1b-8f35-5855-0d38-6ea6509ec619,38,784682.44,20649.53789473684,626448.92,158233.52,9.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+c86a8d7c-98c1-332b-5c04-4301a0d2eac2,28,276904.44,9889.444285714286,160178.99,116725.45,8.839444444444444,Very High Utilization,Very High Cost,High Risk / High Utilization
+c87b91af-3193-69fb-b167-9fc1c50a05d3,6,25623.21,4270.535,0.0,25623.21,100.11805555555556,High Utilization,High Cost,Elevated Utilization or Cost
+c8df2044-d457-1251-6af1-f124fa0aad14,2,557.16,278.58,415.3,141.85999999999996,0.5,Low Utilization,Low Cost,Standard
+c9b3e7d1-3619-d20f-00c8-f4664ba8048e,6,28201.44,4700.24,0.0,28201.44,2.25,High Utilization,High Cost,Elevated Utilization or Cost
+c9fcb287-a69b-a40b-ece7-de807ef737ec,8,86859.66,10857.4575,68879.73,17979.93,144.5,High Utilization,Very High Cost,Elevated Utilization or Cost
+ca46c770-710c-6cfc-b02f-152f7d6a9de0,2,1818.53,909.265,1549.4699999999998,269.06000000000006,2.466666666666667,Low Utilization,Low Cost,Standard
+cb1af831-358a-b44c-6681-275b8705fd3c,4,17682.38,4420.595,14017.89,3664.4900000000002,2.5280555555555555,Moderate Utilization,Moderate Cost,Standard
+cb6510c1-9e38-6057-ff70-c136e18d8f04,1,550.58,550.58,0.0,550.58,0.25,Low Utilization,Low Cost,Standard
+cb6a4083-a9b6-e643-6406-76aeb685c70a,15,33655.4,2243.6933333333336,26796.13,6859.2699999999995,4.181666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+cb7d7fc1-e1c9-71db-3ec6-35e3072e64dd,17,3651.77,214.81,2287.4300000000003,1364.34,4.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+cc82a64a-f1f1-660d-fbde-2cd34aef8b9c,4,1216.69,304.1725,845.34,371.34999999999997,1.0,Moderate Utilization,Low Cost,Standard
+cd2f81e1-ac45-c9af-6a3a-b526e22194c7,32,19323.24,603.85125,14434.529999999999,4888.710000000001,293.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+cd7897f6-bfb4-683e-030f-b2267855bc9b,19,3718.87,195.73,2362.33,1356.5399999999997,5.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+cd7d9e02-c87d-7b8a-786c-2449376f9e62,23,20574.93,894.5621739130435,686.23,19888.7,12.284166666666668,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+cdf5486e-9522-d929-b2ed-30dd0e186fe5,22,62107.170000000006,2823.053181818182,71.49,62035.68,8.889444444444445,Very High Utilization,Very High Cost,High Risk / High Utilization
+ce9de8b9-f291-cea2-835e-c86b9a4ef91b,12,34452.35,2871.0291666666667,0.0,34452.35,6.013888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+cea45305-4183-2e9b-f4c8-37220071f61d,1,150.87,150.87,0.0,150.87,1.0,Low Utilization,Low Cost,Standard
+cef18cf6-75e5-4a6c-56f7-87ebb55ff938,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+cf4735be-de28-1f15-cd88-6a70fd1477cb,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+cfad5cec-7809-7ba0-716b-5c892a4c3e9f,2,557.16,278.58,0.0,557.16,0.5,Low Utilization,Low Cost,Standard
+cfe76007-9d16-a6b4-628e-b6a6cd79bdcc,1,278.58,278.58,190.86,87.71999999999997,0.25,Low Utilization,Low Cost,Standard
+cfed4dfb-1b23-e237-2af6-c3863f134f00,12,1846.96,153.91333333333333,0.0,1846.96,3.0,Very High Utilization,Low Cost,Elevated Utilization or Cost
+d027ce90-0be9-8099-389f-cfc468b53aea,36,54814.670000000006,1522.6297222222224,6124.66,48690.01,17.503888888888888,Very High Utilization,High Cost,Elevated Utilization or Cost
+d03ddf01-495e-b882-f722-bf2bb8aa59cf,19,28204.11,1484.4268421052632,0.0,28204.11,31.200555555555557,Very High Utilization,High Cost,Elevated Utilization or Cost
+d0e6f89b-cdcb-fd06-12d0-390311f2131c,3,642.71,214.23666666666668,381.72,260.98999999999995,0.75,Moderate Utilization,Low Cost,Standard
+d121ef59-2b73-f365-ed19-763b05f80794,24,257490.72,10728.78,173772.9,83717.82,9.120833333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+d14b5ecd-e7c8-4f73-75a5-bbdc79917c94,13,38141.53,2933.963846153846,7236.65,30904.88,4.601944444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+d157239a-9480-52e6-6f9f-b987bf404774,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+d1629b63-3486-1537-a088-cd641d231e86,18,14120.2,784.4555555555556,11843.87,2276.33,5.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d1703421-cb91-03f2-c3ca-2416c484fd00,1,357.55,357.55,0.0,357.55,0.25,Low Utilization,Low Cost,Standard
+d24a4830-99cd-5eb4-7a38-1e1db54d1b86,4,2588.3599999999997,647.0899999999999,1202.83,1385.53,2.5,Moderate Utilization,Moderate Cost,Standard
+d24bf1cb-1ce5-ed65-3388-5dd6d3b405f3,62,13627.9,219.80483870967743,8918.08,4709.820000000001,59.16694444444445,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d2faa913-d854-102f-7022-2c5d2de2c0ae,27,16218.470000000001,600.6840740740741,1233.21,14985.26,6.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d30d80ca-f88c-bbdc-e56b-f32be78738c3,50,558792.5,11175.85,97129.72,461662.78,750.0069444444445,Very High Utilization,Very High Cost,High Risk / High Utilization
+d31226c3-8d28-fccf-ea25-7a51e73d3d11,4,342.2,85.55,0.0,342.2,1.0,Moderate Utilization,Low Cost,Standard
+d3212224-2a5f-6a90-e111-4de13c97882f,2,2314.68,1157.34,0.0,2314.68,2.0,Low Utilization,Low Cost,Standard
+d333a341-4990-0f6c-5720-10afed25b70a,12,17953.94,1496.1616666666666,172.0,17781.94,4.329722222222222,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d40ba361-8192-a8e6-b75c-5def4758fe3f,55,55638.82,1011.6149090909091,42680.16,12958.66,2123.3586111111113,Very High Utilization,High Cost,Elevated Utilization or Cost
+d40beca5-a3ee-af10-4610-13ff02fa26cd,2,174.81,87.405,7.91,166.9,0.5,Low Utilization,Low Cost,Standard
+d43127f6-d92e-26d3-818c-5c44009c9485,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+d4a99fce-93f2-144d-798e-c0c5c7ed5fd2,1,278.58,278.58,69.68,208.89999999999998,0.25,Low Utilization,Low Cost,Standard
+d5e6d112-f9ef-173b-fe14-e42b480f82c1,39,639962.01,16409.28230769231,0.0,639962.01,9.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+d64276bf-b90b-d586-4bec-8fee1dc68488,15,16737.01,1115.8006666666665,418.16,16318.85,4.088611111111111,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d644e248-1127-2a63-a494-c570f926ba06,26,10556.41,406.01576923076925,7601.89,2954.5200000000004,11.760555555555555,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d65806a5-c79f-4ff4-6ca3-384c880cff4c,9,2513.1899999999996,279.2433333333333,1692.95,820.2399999999999,3.0,High Utilization,Low Cost,Elevated Utilization or Cost
+d6636e8b-1bec-5eda-7b28-6b8c5fdfd065,25,243132.23,9725.289200000001,192475.22,50657.01,11.666666666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+d684571e-a784-ef61-429e-06fa0d2b1637,32,22550.89,704.7153125,15371.21,7179.679999999999,8.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d6eff870-2871-f485-e179-40f0dfe0735b,6,1463.61,243.93499999999997,0.0,1463.61,1.5,High Utilization,Low Cost,Elevated Utilization or Cost
+d7a8d68e-bce6-ab6b-e8e6-781298866470,28,13788.73,492.45464285714286,10294.9,3493.83,13.178055555555556,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d856d6e6-4c98-e7a2-129b-44076c63d008,7,41373.950000000004,5910.564285714287,11205.43,30168.52,25.5,High Utilization,High Cost,Elevated Utilization or Cost
+d8c74280-8a38-e115-b39c-f048871ff828,4,1409.72,352.43,999.76,409.9599999999999,1.0,Moderate Utilization,Low Cost,Standard
+d9022f6b-bae7-3d48-2f27-a3a8ad65f328,16,17181.73,1073.858125,596.0,16585.73,4.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d914fafd-57d0-dc6b-9f8f-c43235f5782c,9,3705.28,411.6977777777778,152.69,3552.59,2.25,High Utilization,Moderate Cost,Elevated Utilization or Cost
+d94cc195-75f0-660c-1c8b-c7ed9ab18dc3,18,23551.46,1308.4144444444444,18614.28,4937.18,4.700555555555556,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+d965b61d-b246-b4cb-7177-1f5bdbc6a1fa,1,573.98,573.98,427.18,146.8,0.25,Low Utilization,Low Cost,Standard
+d985cd4b-b1db-dfe8-4b07-66bc9b840ea0,3,995.14,331.7133333333333,700.1,295.03999999999996,0.75,Moderate Utilization,Low Cost,Standard
+d987f077-6c49-b9c3-1217-0a435364edd0,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+d9925cf2-3c9a-6d3d-6dd6-255e72b5bccf,12,31724.17,2643.6808333333333,29380.62,2343.5499999999993,3.8894444444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+d9dba405-bf77-af38-d617-1568ca2f329d,3,32750.129999999997,10916.71,0.0,32750.129999999997,1.6836111111111112,Moderate Utilization,High Cost,Standard
+d9ec2e44-32e9-9148-179a-1653348cc4e2,34,82698.15000000001,2432.298529411765,23739.399999999998,58958.75,10.777222222222223,Very High Utilization,Very High Cost,High Risk / High Utilization
+d9f04fa2-1c29-1d3c-b529-27e0c6d2c01f,9,31207.550000000003,3467.505555555556,924.94,30282.61,2.953333333333333,High Utilization,High Cost,Elevated Utilization or Cost
+da77847d-3320-1280-d147-3d1d1199430b,4,85081.45,21270.3625,6128.179999999999,78953.26999999999,2.464722222222222,Moderate Utilization,Very High Cost,Elevated Utilization or Cost
+da7825b5-255a-ebeb-b93a-06fb3081e2bb,12,3265.45,272.12083333333334,2004.3300000000002,1261.12,3.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+dabb67a9-bc4b-bc40-696e-65546a548d39,239,61730.590000000004,258.2869874476988,41895.43,19835.160000000003,134.70027777777779,Very High Utilization,Very High Cost,High Risk / High Utilization
+dbc49a8f-0f3d-e9a3-0698-d0ef0a07a31e,4,1108.06,277.015,0.0,1108.06,1.0,Moderate Utilization,Low Cost,Standard
+dc1c3f75-0055-f155-132b-1ad7302720e0,19,26509.02,1395.2115789473685,20405.61,6103.410000000002,5.280555555555556,Very High Utilization,High Cost,Elevated Utilization or Cost
+dca6e740-e04e-b0e6-7a5f-d73b11b42d1a,28,27889.510000000002,996.0539285714286,21322.69,6566.82,13.876666666666667,Very High Utilization,High Cost,Elevated Utilization or Cost
+dccaefe2-518c-a083-d4ab-cea270ce521d,34,5106.12,150.18,1868.6799999999998,3237.4400000000005,34.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+dd62510c-8446-f3c9-1246-f7a0ffa42f6a,4,37898.18,9474.545,14854.07,23044.11,1.0,Moderate Utilization,High Cost,Standard
+de1f6a21-bdd3-0ccd-8a3c-b06e98a13cf2,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+de60a9e4-1334-6078-c1f1-e5083bb20361,210,60363.48,287.44514285714286,28884.79,31478.690000000002,59.63333333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+ded9d0c9-ae3c-a52a-2567-234bcf5a2294,23,621805.72,27035.031304347824,0.0,621805.72,5.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+df02562a-4b08-41a7-3db7-d50f232164aa,15,57711.31,3847.4206666666664,0.0,57711.31,3.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+df2da558-d276-40cb-eb61-625cf617935d,8,64654.43,8081.80375,28864.670000000002,35789.76,3.6883333333333335,High Utilization,Very High Cost,Elevated Utilization or Cost
+df306094-dcaf-df23-9a81-3d72e6c7661f,19,114767.35,6040.386842105264,0.0,114767.35,34.18138888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+df607b64-3d5e-5795-1646-edd2ccf55192,217,31891.860000000004,146.96709677419358,2475.3,29416.56,54.25,Very High Utilization,High Cost,Elevated Utilization or Cost
+dfb73d25-556b-6d1f-fb4b-0fa4b63abf68,18,29103.54,1616.8633333333335,2874.1699999999996,26229.37,6.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+e0161f94-5f08-3eff-04f5-3e6472173775,16,63322.490000000005,3957.6556250000003,49954.600000000006,13367.89,4.75,Very High Utilization,Very High Cost,High Risk / High Utilization
+e019d0db-35d0-9bee-c8d9-76036a7f618a,4,2973.05,743.2625,2240.14,732.9100000000001,1.0,Moderate Utilization,Moderate Cost,Standard
+e051f8a9-b93e-e32c-5b27-948e919f5590,23,165218.0,7183.391304347826,46627.51,118590.48999999999,38.06055555555555,Very High Utilization,Very High Cost,High Risk / High Utilization
+e06e3a39-db6d-460a-d900-4fedf5f7900a,30,23834.41,794.4803333333333,11382.71,12451.7,9.283333333333333,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e0867090-d205-d292-5722-05a10eda9be8,3,427.74,142.58,246.18,181.56000000000003,0.75,Moderate Utilization,Low Cost,Standard
+e0cc5f38-bb6e-d57c-80a4-76b6271700ea,42,21960.62,522.8719047619047,15782.68,6177.9400000000005,16.614166666666666,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e0d5ec6b-728f-ac09-4c4e-388bb59b7dd7,9,25508.73,2834.3033333333333,10266.13,15242.599999999999,2.637777777777778,High Utilization,High Cost,Elevated Utilization or Cost
+e0f27b95-e7cb-68d0-b6d9-b4281512037e,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+e0f9b98c-f983-cba1-9095-0e48d10f0195,20,4375.89,218.79450000000003,169.57,4206.32,5.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e16d71a8-dd31-4df2-c53c-e34726854b7c,28,123288.41,4403.1575,55979.85,67308.56,8.678888888888888,Very High Utilization,Very High Cost,High Risk / High Utilization
+e2a89dff-75f1-0f59-2c9c-4bd6efcbcc23,24,171293.66,7137.235833333333,141.7,171151.96,30.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+e2d8e1ed-6f63-54e2-d14e-8346799e92ef,96,156996.80000000002,1635.3833333333334,122497.75,34499.05000000001,122.09666666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+e304e5e1-b556-d7ce-b776-eb6cea1e5143,17,14900.91,876.5241176470588,10141.85,4759.06,4.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e30f944e-7312-74f5-6836-9a9f8d97aba9,13,3139.08,241.4676923076923,2095.19,1043.8899999999999,3.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e343f657-1eeb-e7c8-a831-4898b626e73a,8,1195.53,149.44125,311.54,883.99,25.75,High Utilization,Low Cost,Elevated Utilization or Cost
+e34f9bdf-dd78-636f-c4b7-032078b1c2af,8,4284.66,535.5825,0.0,4284.66,2.0,High Utilization,Moderate Cost,Elevated Utilization or Cost
+e3a022ff-f2e0-87b2-a704-68ee3a715c17,15,2521.66,168.11066666666665,1377.31,1144.35,3.75,Very High Utilization,Low Cost,Elevated Utilization or Cost
+e3eeac06-7f9d-8e95-5cce-2dea6641f469,18,109466.79000000001,6081.488333333334,86780.12,22686.670000000006,12.305,Very High Utilization,Very High Cost,High Risk / High Utilization
+e4188722-f6a7-12f7-e0ef-644db467dd24,35,14436.130000000001,412.46085714285715,10738.31,3697.82,35.50027777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e45ef69c-6d65-b93b-7c16-5df7c0542d0c,2,285.16,142.58,156.9,128.26000000000002,0.5,Low Utilization,Low Cost,Standard
+e4b1590f-aad7-aea2-ee4b-16ba5db0ce35,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+e4db68b2-824e-d8b9-6555-420854c16078,3,903.1300000000001,301.04333333333335,202.38,700.75,1.5,Moderate Utilization,Low Cost,Standard
+e5157d96-3816-ecbb-2129-ef9f1c920afe,4,842.32,210.58,420.2,422.12,1.0,Moderate Utilization,Low Cost,Standard
+e520953a-ee37-4bf4-1df7-aec4b89fb761,6,22860.45,3810.0750000000003,979.98,21880.47,2.25,High Utilization,Moderate Cost,Elevated Utilization or Cost
+e54023a5-ae9a-fea9-3ad3-08989ea5b5aa,57,580149.36,10178.058947368421,0.0,580149.36,17.01861111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+e541fe35-5c40-5acc-aab1-f9a4f72d5c8d,27,31166.24,1154.3051851851853,24392.67,6773.570000000001,32.912222222222226,Very High Utilization,High Cost,Elevated Utilization or Cost
+e5f1f408-41ee-ad26-0d59-3e5477bcc7ad,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+e628d813-fe39-4da4-e93b-ea406a130e54,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+e64a245c-04c8-47c2-1c4d-d26e2a5b56ab,3,10147.27,3382.4233333333336,9438.52,708.7500000000009,1.5,Moderate Utilization,Moderate Cost,Standard
+e68c5e1a-990f-c7d3-bda8-cf4774f4f480,30,238697.69,7956.589666666667,87760.49,150937.2,7.8116666666666665,Very High Utilization,Very High Cost,High Risk / High Utilization
+e6bca1f5-d166-438c-b627-15320eaade3f,18,119448.78,6636.043333333333,51028.14,68420.64,30.510833333333334,Very High Utilization,Very High Cost,High Risk / High Utilization
+e718d8a1-35ec-b9d4-0e93-54690f0c361d,6,855.48,142.58,234.13,621.3500000000001,1.5,High Utilization,Low Cost,Elevated Utilization or Cost
+e78af289-da60-41b5-a99c-b79a4a4a4679,4,554.99,138.7475,347.98,207.01,24.75,Moderate Utilization,Low Cost,Standard
+e7eaf3df-a981-d555-12d6-fdd50fa2631e,66,863712.2,13086.548484848485,152955.97,710756.23,1160.4780555555556,Very High Utilization,Very High Cost,High Risk / High Utilization
+e820d05f-ab90-24e5-dd6c-ea36c64cfa30,51,288971.24,5666.102745098039,0.0,288971.24,16.023888888888887,Very High Utilization,Very High Cost,High Risk / High Utilization
+e8406d5b-ad85-c535-2ec8-639ae5c409dd,27,40482.56,1499.3540740740739,1233.45,39249.11,13.553333333333333,Very High Utilization,High Cost,Elevated Utilization or Cost
+e85e3749-fff3-bd17-ff8c-7da886759a7b,28,24833.36,886.9057142857143,19208.96,5624.4,10.133888888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+e8d1ee78-0fbe-18d2-ebbe-8575c378b4fc,6,1112.15,185.35833333333335,538.74,573.41,26.113888888888887,High Utilization,Low Cost,Elevated Utilization or Cost
+e8dddac7-b7cd-5aec-13b0-2128cf20a84a,17,305122.19,17948.36411764706,242941.24000000002,62180.95,4.9158333333333335,Very High Utilization,Very High Cost,High Risk / High Utilization
+e8e6d03d-6ef5-0f95-5655-eb36ad1c602e,23,107656.48,4680.71652173913,85302.44,22354.04,14.924166666666666,Very High Utilization,Very High Cost,High Risk / High Utilization
+e8f13591-5d92-0b18-e0f1-2faa6c6f9bc3,18,4044.2599999999998,224.6811111111111,15.82,4028.44,4.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+e918253f-e8ca-404c-0419-0ba03a6cd669,36,345862.95,9607.304166666667,191543.80000000002,154319.15,12.429166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+e99ba27e-4155-1e2d-47ec-becb63cf695e,7,1347.69,192.52714285714288,726.14,621.55,1.75,High Utilization,Low Cost,Elevated Utilization or Cost
+ea365959-6902-a5c6-f713-a4992cd9a5f4,3,563.74,187.91333333333333,210.10000000000002,353.64,0.75,Moderate Utilization,Low Cost,Standard
+ea4880d4-7b1e-a196-ba40-e644f3057f46,13,19294.84,1484.2184615384615,15362.04,3932.8,4.75,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+ea9d6669-efc3-3c16-4f70-70cc1c1659d7,65,366385.72,5636.7033846153845,144886.5,221499.22,7266.043611111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+eac598ed-3711-9948-a5fe-94c870222887,9,28234.22,3137.1355555555556,0.0,28234.22,3.3008333333333333,High Utilization,High Cost,Elevated Utilization or Cost
+eadeadde-1b80-76cc-6558-2b5b511be15a,1,1027.84,1027.84,863.53,164.30999999999995,1.3166666666666667,Low Utilization,Low Cost,Standard
+eaf5cbcf-e704-4f14-5383-4e5003d90034,50,264213.05,5284.2609999999995,208595.39,55617.659999999996,12.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+eafaabe5-1c4e-4a68-08c3-7c6252db7b43,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+ebfcdf5d-6dfd-5f3e-2860-b3f93f155790,10,29683.86,2968.386,23509.83,6174.029999999999,7.215277777777778,High Utilization,High Cost,Elevated Utilization or Cost
+ec7cb2f5-7af5-86c0-4c41-ecf7f0d85952,19,185523.4,9764.38947368421,126142.86,59380.54,29.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+ec8baf4e-2197-8119-f8d4-2fa6547e84b3,49,407859.82,8323.669795918368,75001.11,332858.71,15.77138888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+ed5a29a9-c011-1d92-370f-b1b0cf81dbe3,43,218851.09,5089.560232558139,205396.33,13454.760000000007,14.68,Very High Utilization,Very High Cost,High Risk / High Utilization
+eda6bc14-b236-e8c6-509a-b293e9cc688b,94,2090033.12,22234.394893617024,0.0,2090033.12,23.5,Very High Utilization,Very High Cost,High Risk / High Utilization
+ede3ae85-72c9-2309-b072-30794c3e01c0,96,70239.8,731.6645833333333,0.0,70239.8,31.158333333333335,Very High Utilization,Very High Cost,High Risk / High Utilization
+ede74b11-30d8-0835-59d0-519c2434f32b,12,1982.96,165.24666666666667,988.6600000000001,994.3000000000001,3.0,Very High Utilization,Low Cost,Elevated Utilization or Cost
+ee010f0d-1894-297e-6ce8-7ca5286ac909,28,34532.24,1233.2942857142857,25420.88,9111.36,11.016666666666666,Very High Utilization,High Cost,Elevated Utilization or Cost
+ee0ee532-9104-7e59-2fea-837a1d2dd434,17,98280.77,5781.221764705882,77849.61,20431.159999999996,5.670833333333333,Very High Utilization,Very High Cost,High Risk / High Utilization
+ee96d0b5-a76a-6801-3112-b02b9b2f748e,29,25471.82,878.3386206896552,109.32,25362.5,11.75,Very High Utilization,High Cost,Elevated Utilization or Cost
+ef045053-7be8-48a5-935e-1115da877558,31,5891.75,190.05645161290323,3651.42,2240.33,9.325277777777778,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+ef0eb1c5-5ef8-be88-e54c-4b68fbd77f20,8,40215.18,5026.8975,0.0,40215.18,3.6077777777777778,High Utilization,High Cost,Elevated Utilization or Cost
+ef1c2350-a7ae-f165-a080-e55a06df7ae2,7,115881.35,16554.47857142857,109523.24,6358.109999999996,4.648888888888889,High Utilization,Very High Cost,Elevated Utilization or Cost
+efc88338-99b1-0adf-5454-ee4ba87267e3,24,186639.23,7776.6345833333335,129701.97,56937.26,31.940555555555555,Very High Utilization,Very High Cost,High Risk / High Utilization
+effa5529-9da5-05b0-d858-8a75dd77b350,100,52067.51,520.6751,38613.5,13454.01,99.77138888888888,Very High Utilization,High Cost,Elevated Utilization or Cost
+f038296f-17bb-28ac-20b0-13438f286964,21,32372.870000000003,1541.5652380952383,2746.84,29626.03,6.192777777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+f06ef2bf-a35c-b6d6-44db-149397b5bd26,6,18015.68,3002.6133333333332,16601.89,1413.7899999999988,2.716666666666667,High Utilization,Moderate Cost,Elevated Utilization or Cost
+f10f2d5d-eb60-86a3-accb-abe6eb1312c0,6,18068.39,3011.398333333333,895.8,17172.59,2.660555555555556,High Utilization,Moderate Cost,Elevated Utilization or Cost
+f116b085-d008-e6c6-0cc9-80615a18c7dc,12,2133.54,177.795,0.0,2133.54,27.5,Very High Utilization,Low Cost,Elevated Utilization or Cost
+f152f20c-79ac-afd6-cfbd-85054c831677,18,24574.46,1365.2477777777776,0.0,24574.46,5.330277777777778,Very High Utilization,High Cost,Elevated Utilization or Cost
+f1729ee4-8177-96de-304e-deeffa55be1e,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+f18dc46f-1bc3-3c89-1a9f-5afe1a07eb83,18,24280.59,1348.9216666666666,8346.19,15934.4,5.714444444444444,Very High Utilization,High Cost,Elevated Utilization or Cost
+f1965716-2e16-0895-e7d4-7e316c1a6288,2,285.16,142.58,0.0,285.16,0.5,Low Utilization,Low Cost,Standard
+f21a9c39-abd4-4e57-575d-83e1c29484da,48,552342.3,11507.13125,204241.4,348100.9,1310.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+f2203fd5-1a2c-60cd-cae0-1416658880b6,6,2890.65,481.77500000000003,2203.69,686.9599999999998,1.5,High Utilization,Moderate Cost,Elevated Utilization or Cost
+f2436301-8a23-a982-6445-3b7c54aeb670,52,56865.43,1093.5659615384616,0.0,56865.43,43.410555555555554,Very High Utilization,High Cost,Elevated Utilization or Cost
+f27f268b-185d-a61e-d4e1-79ca18f48346,1,21243.52,21243.52,20124.34,1119.1800000000003,0.25,Low Utilization,Moderate Cost,Standard
+f284e57a-4038-2d22-4282-51acee43c2ac,19,19211.35,1011.1236842105262,14811.789999999999,4399.56,6.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+f29194e5-3f66-388b-f4d4-c9e533beaad8,4,17458.0,4364.5,13811.84,3646.1599999999985,1.0,Moderate Utilization,Moderate Cost,Standard
+f2cc87aa-5fe3-b115-38e2-091c282b510a,38,17950.13,472.37184210526317,460.03000000000003,17490.1,57.76,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+f374b1b9-2584-6724-ac25-db16a13d0920,3,7894.25,2631.4166666666665,6219.39,1674.8600000000001,1.5,Moderate Utilization,Moderate Cost,Standard
+f3979e92-6b6c-67a0-aed9-6e07072cfaa6,53,687504.64,12971.785660377358,544728.71,142775.93,16.25,Very High Utilization,Very High Cost,High Risk / High Utilization
+f39ec5de-b029-c6d4-2738-696ecab81a79,1,100.81,100.81,0.0,100.81,0.25,Low Utilization,Low Cost,Standard
+f44bdd2e-7a9f-20e3-1c3a-6639dd02d809,16,195027.18,12189.19875,154862.31,40164.87,4.003611111111111,Very High Utilization,Very High Cost,High Risk / High Utilization
+f457aa0d-98bd-0d18-c4ae-753f51f70be6,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+f468b604-398a-bfbf-3787-9ab68db7b588,12,149554.11,12462.842499999999,83396.43,66157.68,3.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+f46eb57b-e1e2-938d-e985-e02c92183b1b,16,29657.78,1853.61125,23201.11,6456.67,4.881944444444445,Very High Utilization,High Cost,Elevated Utilization or Cost
+f4a34af7-d34b-3a28-9287-c7df7c009e5a,13,7936.929999999999,610.5330769230769,0.0,7936.929999999999,4.153611111111111,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+f4b6639b-7a79-9331-a0f8-f83f73935032,32,280948.18,8779.630625,33107.97,247840.21000000002,9.119722222222222,Very High Utilization,Very High Cost,High Risk / High Utilization
+f4cde0dc-db22-5d98-5228-55121ae74cad,139,78456.16,564.4328057553957,10191.45,68264.71,38.16416666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+f5022604-ad35-60e2-dd21-c66d4555fc26,1,9440.91,9440.91,7520.73,1920.1800000000003,0.45055555555555554,Low Utilization,Moderate Cost,Standard
+f543e999-394f-90f3-70d4-fea38b0d6786,38,372293.49,9797.197105263158,295898.63,76394.86,11.0,Very High Utilization,Very High Cost,High Risk / High Utilization
+f55956c4-ac53-0777-18ec-b2fac3a7113a,4,31393.42,7848.355,24947.539999999997,6445.880000000001,2.5,Moderate Utilization,High Cost,Standard
+f6932663-d920-6e76-89e1-21a6b43cf03b,6,2144.31,357.385,0.0,2144.31,3481.25,High Utilization,Low Cost,Elevated Utilization or Cost
+f6f8ef47-024b-9348-47ff-301f11d8b818,9,30752.86,3416.9844444444443,0.0,30752.86,3.062777777777778,High Utilization,High Cost,Elevated Utilization or Cost
+f7be7a15-e966-0b3e-f408-31cf2294f43d,21,54235.76,2582.655238095238,43018.61,11217.15,9.0,Very High Utilization,High Cost,Elevated Utilization or Cost
+f840a8c9-4cf1-01b7-bcc6-7f2de28a1090,25,96817.24,3872.6896,19997.67,76819.57,9.123888888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+f89472c6-994a-e5f2-c1c7-467509dfd857,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+f898bd52-76d8-b18a-98d9-35621e90007f,4,728.26,182.065,0.0,728.26,1.0,Moderate Utilization,Low Cost,Standard
+f938a4ca-a22b-67df-02d1-ac78dce93f4d,1,278.58,278.58,0.0,278.58,0.25,Low Utilization,Low Cost,Standard
+f9400f91-e17e-33e5-e8a9-9afb701391bf,1,142.58,142.58,0.0,142.58,0.25,Low Utilization,Low Cost,Standard
+f95b336a-ec12-455f-b118-7c7ccc965806,1,3214.22,3214.22,2996.51,217.70999999999958,1.0,Low Utilization,Moderate Cost,Standard
+f966f8ba-a877-289a-7f05-3824956043c2,14,63137.450000000004,4509.817857142857,0.0,63137.450000000004,295.2025,Very High Utilization,Very High Cost,High Risk / High Utilization
+f9680fdc-351e-ebc2-0477-e0661c4980d2,13,148673.17,11436.397692307693,118458.53,30214.64,27.672777777777778,Very High Utilization,Very High Cost,High Risk / High Utilization
+f96addf5-81b9-0aab-7855-d208d3d352c5,9,22013.23,2445.9144444444446,17226.47,4786.76,28.047777777777778,High Utilization,Moderate Cost,Elevated Utilization or Cost
+f998d76d-47dd-4de5-c4b8-49e2ad47fe88,1,278.58,278.58,207.65,70.92999999999998,0.25,Low Utilization,Low Cost,Standard
+f9a785f2-ef67-8c1f-1310-2e63ea2a9bc2,1,9994.82,9994.82,0.0,9994.82,1.0,Low Utilization,Moderate Cost,Standard
+f9bcfd25-945c-4e3e-39f1-8ed50525a3e4,2,564.36,282.18,0.0,564.36,2.0,Low Utilization,Low Cost,Standard
+fa006887-d93c-d302-8b89-f3c25f88c0e1,31,30933.55,997.8564516129032,1089.3300000000002,29844.219999999998,15.171111111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+fa53fdfe-9fb4-a535-b49b-3ce0fd0998cd,106,500872.65,4725.213679245283,469666.19,31206.460000000003,314.0363888888889,Very High Utilization,Very High Cost,High Risk / High Utilization
+fa583e57-b4ff-e3c2-c48d-ef26e27a2031,2,285.16,142.58,50.69,234.47000000000003,0.5,Low Utilization,Low Cost,Standard
+faa8bebe-a2f1-fc09-eac3-a0a7f34513ad,49,44252.27,903.1075510204081,33779.63,10472.64,491.7111111111111,Very High Utilization,High Cost,Elevated Utilization or Cost
+fb648081-114b-608c-e278-3612ec70023c,38,4183.8,110.10000000000001,791.1,3392.7,10.25,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+fb6f2c13-5402-0e06-23e7-b8f93d7f7ad4,6,2085.74,347.6233333333333,0.0,2085.74,2.25,High Utilization,Low Cost,Elevated Utilization or Cost
+fb77a596-afb5-6e06-8cb9-f9ca44b21b78,60,436282.33999999997,7271.372333333333,410426.02,25856.319999999996,20.454444444444444,Very High Utilization,Very High Cost,High Risk / High Utilization
+fb7e2537-087c-73f9-c289-60462c72a105,6,31609.87,5268.3116666666665,0.0,31609.87,2.2172222222222224,High Utilization,High Cost,Elevated Utilization or Cost
+fba3d563-9dee-b05d-5598-57b56b9dd26c,3,699.74,233.24666666666667,493.75,205.98999999999995,0.75,Moderate Utilization,Low Cost,Standard
+fc01104b-f296-073d-3a06-77f1cc886950,8,3397.71,424.71375,903.52,2494.19,2.0,High Utilization,Moderate Cost,Elevated Utilization or Cost
+fc42c38d-eb59-0c75-ca65-d8a3fa348f36,4,13479.169999999998,3369.7924999999996,12573.15,906.0199999999991,1.75,Moderate Utilization,Moderate Cost,Standard
+fc81fad8-86e1-4df2-0613-25019adf3e5d,1,142.58,142.58,82.06,60.52000000000001,0.25,Low Utilization,Low Cost,Standard
+fc917948-c382-b79e-7bc4-ffbf74332ea3,40,11289.97,282.24924999999996,0.0,11289.97,39.0,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+fccc2df6-53b9-d3f1-15ee-680d30c44557,1,24793.11,24793.11,23458.45,1334.6599999999999,0.25,Low Utilization,High Cost,Standard
+fd035775-ec53-2c46-6d8e-2dff6cb501c8,8,19014.77,2376.84625,0.0,19014.77,3.5919444444444446,High Utilization,Moderate Cost,Elevated Utilization or Cost
+fd986dd9-5b2c-c5f0-f358-6753e5612a80,40,45162.66,1129.0665000000001,34061.409999999996,11101.25,16.77138888888889,Very High Utilization,High Cost,Elevated Utilization or Cost
+fea2a30d-f7c9-eeb0-9aad-5c711f55574f,106,1181185.96,11143.263773584906,0.0,1181185.96,49.5075,Very High Utilization,Very High Cost,High Risk / High Utilization
+fed6b162-942a-1344-f218-c733a0d7082d,26,14760.41,567.7080769230769,10267.79,4492.62,6.5,Very High Utilization,Moderate Cost,Elevated Utilization or Cost
+ff1b3c26-53a6-4590-ce79-a3f7269274ea,72,616543.65,8563.10625,16531.38,600012.27,20.664166666666667,Very High Utilization,Very High Cost,High Risk / High Utilization
+ff331e5c-ab16-e218-f39a-63e11de1ed75,291,6356665.66,21844.211890034363,845233.69,5511431.97,72.75,Very High Utilization,Very High Cost,High Risk / High Utilization
